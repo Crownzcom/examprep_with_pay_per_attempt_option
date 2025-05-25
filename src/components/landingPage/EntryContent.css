@@ -1,0 +1,24 @@
+@media only screen and (max-width: 1200px) {
+  .entry-heading {
+    font-family: Fredoka;
+    font-weight: 700;
+    font-size: 23px;
+    /* color: #242124; */
+    color: seagreen;
+    font-style: normal;
+    line-height: 70px;
+    text-align: center;
+  }
+
+  .entry-info {
+    margin: 8rem 3em;
+  }
+
+  .entry-p {
+    color: #242124;
+    font-style: normal;
+    font-family: Fredoka;
+    text-align: center;
+    font-weight: 500;
+  }
+}

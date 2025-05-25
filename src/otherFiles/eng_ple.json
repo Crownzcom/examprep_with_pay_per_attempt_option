@@ -1,0 +1,573 @@
+[
+  {
+    "instructions": "In each of the questions 1 to 5, fill in the blank space with a suitable word.",
+    "category": 1,
+    "numberOfQuestions ": 5,
+    "questions": [
+      {
+        "question": "_____ Opio buys new tyres for his car, he will not be arrested by traffic police officers.",
+        "answer": "If",
+        "mark": 1,
+        "id": "pleenglishcategory1-5_24",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "Most people enjoy _____ to radio talk shows.",
+        "answer": "listening",
+        "mark": 1,
+        "id": "pleenglishcategory1-5_12",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "That is the journalist to _____ we gave our articles to publish.",
+        "answer": "whom",
+        "mark": 1,
+        "id": "pleenglishcategory1-5_4",
+        "type": "text",
+        "user_answer": "dhjh",
+        "sub_questions": []
+      },
+      {
+        "question": "Lazy peeple _____ eating to working.",
+        "answer": "prefer",
+        "mark": 1,
+        "id": "pleenglishcategory1-5_36",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "A lion is _____ fierce than a leopard.",
+        "answer": "more",
+        "mark": 1,
+        "id": "pleenglishcategory1-5_3",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      }
+    ]
+  },
+  {
+    "instructions": "In each of the questions 6 to 15, use the correct form of the word given in the brackets to complete the sentence.",
+    "category": 6,
+    "numberOfQuestions ": 5,
+    "questions": [
+      {
+        "question": "The triplets opened the door by _____ .(them)",
+        "answer": "themselves",
+        "mark": 1,
+        "id": "pleenglishcategory6-15_92",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "My classmates behaved very _____ on our sports day. (good)",
+        "answer": "well",
+        "mark": 1,
+        "id": "pleenglishcategory6-15_28",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      }
+    ]
+  },
+  {
+    "instructions": "In each of the questions 16 to 17, drag and drop the given words in alphabetical order.",
+    "category": 16,
+    "numberOfQuestions ": 2,
+    "questions": [
+      {
+        "mark": 1,
+        "id": "pleenglishcategory16-17_1",
+        "type": "dragAndDrop",
+        "question": ["near", "far", "after", "before"],
+        "answer": ["after", "before", "far", "near"],
+        "user_answer": null,
+        "sub_questions": []
+      }
+    ]
+  },
+  {
+    "instructions": "In each of the questions 18 to 20, give one word for the underlined group of words.",
+    "category": 18,
+    "numberOfQuestions ": 3,
+    "questions": [
+      {
+        "question": "Some of our classmates are <u>from Kenya</u>.",
+        "answer": "Kenyan",
+        "mark": 1,
+        "id": "pleenglishcategory18-20_6",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "Most birds make <u>homes of grass </u> in which to lay their eggs.",
+        "answer": "nests",
+        "mark": 1,
+        "id": "pleenglishcategory18-20_14",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "The lazy girl was <u> not successful </u> in the final examinations.",
+        "answer": "unsuccessful",
+        "mark": 1,
+        "id": "pleenglishcategory18-20_46",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      }
+    ]
+  },
+  {
+    "instructions": "In each of the questions 21 to 22, choose the sentence where the given word is used correctly.",
+    "category": 21,
+    "numberOfQuestions ": 2,
+    "questions": [
+      {
+        "question": "brake",
+        "options": [
+          "I need to take a brake.",
+          "I need to brake for the stop sign.",
+          "He smashed the window and broke it.",
+          "I'm going to brake the law."
+        ],
+        "answer": "I need to brake for the stop sign.",
+        "mark": 1,
+        "id": "pleenglishcategory21-22_23",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "source",
+        "options": [
+          "The library is an important sauce of knowledge.",
+          "We need to find a source to fix the car.",
+          "He likes to source the books at the bookstore.",
+          "The internet is a great source of information."
+        ],
+        "answer": "The internet is a great source of information.",
+        "mark": 1,
+        "id": "pleenglishcategory21-22_8",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      }
+    ]
+  },
+  {
+    "instructions": "In each of the questions 23 to 24, write the full form of the given abbreviation.",
+    "category": 23,
+    "numberOfQuestions ": 2,
+    "questions": [
+      {
+        "question": "it's",
+        "answer": "it is",
+        "mark": 1,
+        "id": "pleenglishcategory23-24_1",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "shan't",
+        "answer": "shall not",
+        "mark": 1,
+        "id": "pleenglishcategory23-24_17",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      }
+    ]
+  },
+  {
+    "instructions": "In each of the questions 25 to 26, drag and drop the given words to from a sentence.",
+    "category": 25,
+    "numberOfQuestions ": 2,
+    "questions": [
+      {
+        "mark": 1,
+        "id": "pleenglishcategory25-26_36",
+        "type": "dragAndDrop",
+        "question": ["a", "teacher.", "My", "wife", "is"],
+        "answer": ["My", "wife", "is", "a", "teacher."],
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "mark": 1,
+        "id": "pleenglishcategory25-26_2",
+        "type": "dragAndDrop",
+        "question": ["doing", "tomorrow", "anything", "Are", "morning", "you?"],
+        "answer": ["Are", "you?", "doing", "anything", "tomorrow", "morning"],
+        "user_answer": null,
+        "sub_questions": []
+      }
+    ]
+  },
+  {
+    "instructions": "In each of the questions 27 to 28, give the opposite of the underlined word(s) or given word.",
+    "category": 27,
+    "numberOfQuestions ": 2,
+    "questions": [
+      {
+        "question": "Lydia has gone to the bank to <u>withdraw</u> some money.",
+        "answer": "deposit",
+        "mark": 1,
+        "id": "pleenglishcategory27-28_17",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "Brenda walked <u>downstairs</u> to collect her clothes.",
+        "answer": "upstairs",
+        "mark": 1,
+        "id": "pleenglishcategory27-28_3",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      }
+    ]
+  },
+  {
+    "instructions": "In each of the questions 29 to 30, give the plural of the underlined or given word(s).",
+    "category": 29,
+    "numberOfQuestions ": 2,
+    "questions": [
+      {
+        "question": "Okello bought the new <u>badge</u> for Waya Nursery School uniforms.",
+        "answer": "badges",
+        "mark": 1,
+        "id": "pleenglishcategory29-30_37",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "potato",
+        "answer": "potatoes",
+        "mark": 1,
+        "id": "pleenglishcategory29-30_5",
+        "type": "text",
+        "user_answer": null,
+        "sub_questions": []
+      }
+    ]
+  },
+  {
+    "instructions": "In each of the questions 31 to 50, select the sentence with the correct rewritten option according to the instruction provided in the brackets.",
+    "category": 31,
+    "numberOfQuestions ": 20,
+    "questions": [
+      {
+        "question": "\"Where has my aunt gone, Mary?\" asked John. (Rewrite the sentence beginning: John asked.......)",
+        "options": [
+          "John asked where has my aunt gone, Mary.",
+          "John asked Mary where his aunt had gone.",
+          "John asked Mary where my aunt has gone.",
+          "John asked where Mary has gone, his aunt."
+        ],
+        "answer": "John asked Mary where his aunt had gone.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_5",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "It is six year since I last travelled to Kampala. (Re-write the sentence  beginning: I last……………)",
+        "options": [
+          "I last travelled to Kampala in six years.",
+          "I last travelled to Kampala six years ago."
+        ],
+        "answer": "I last travelled to Kampala six years ago.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_155",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "The tailor made a suit. The tailor also ironed a suit. (Re-write as on sentence beginning: Besides…………………)",
+        "options": [
+          "Besides making a suit, the tailor also made it.",
+          "Besides making a suit, the tailor also ironed it."
+        ],
+        "answer": "Besides making a suit, the tailor also ironed it.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_136",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "Bbosa prefers posho to sweet potatoes. (Re-write  the sentence using:………………more…………)",
+        "options": [
+          "Bbosa likes sweet potatoes more than posho.",
+          "Bbosa likes posho more than sweet potatoes."
+        ],
+        "answer": "Bbosa likes posho more than sweet potatoes.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_166",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "Who has broken my cup? (Rewrite the sentence using: By whom....)",
+        "options": [
+          "By whom has my cup been broken?",
+          "By whom my cup has been broken?",
+          "By whom broken my cup?",
+          "By whom has broken my cup?"
+        ],
+        "answer": "By whom has my cup been broken?",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_34",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "What is the cost of a bull in your area? (Rewrite the sentence beginning: How…)",
+        "options": [
+          "How is the cost of a bull in your area?",
+          "How much is the cost of a bull in your area?",
+          "How is the cost of a bull in your area?",
+          "How much a bull cost in your area?"
+        ],
+        "answer": "How much is the cost of a bull in your area?",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_35",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "Both Ichat and Bbosa are clever. (Re-write the sentence using………….as clever…………)",
+        "options": [
+          "Ichat is as clever as Manja.",
+          "Ichat is not as clever as Manja."
+        ],
+        "answer": "Ichat is as clever as Manja.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_137",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "Our neighbor said that she had reported the case to police. (Re-write the sentence ending  “……………” said our neighbours.)",
+        "options": [
+          "I reported the case to the police our neighbour said.",
+          "“I reported the case to the police,” said our neighbour."
+        ],
+        "answer": "“I reported the case to the police,” said our neighbour.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_152",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "The proposer say that water is better than fire. (Rewrite the sentence ending: ……………” the proposers say.)",
+        "options": [
+          "“Fire is better than water.” the opposers say.",
+          "“Water is better than fire.” the proposers say.",
+          "“Fire is better than water.” the proposers say."
+        ],
+        "answer": "“Water is better than fire.” the proposers say.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_44",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "Eliana writes very well. Musa also writes very well. (Rewrite as one sentence using: .....and so .....)",
+        "options": [
+          "Eliana writes very well and so Musa does too.",
+          "Eliana writes very well, and so does Musa.",
+          "Eliana writes very well, and so also Musa.",
+          "Eliana writes very well, and so is Musa."
+        ],
+        "answer": "Eliana writes very well, and so does Musa.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_18",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "The parents liked the drama. (Re-write the sentence using: …………interested………………)",
+        "options": [
+          "The parents were not interested in the drama.",
+          "The parents were interested in the drama."
+        ],
+        "answer": "The parents were interested in the drama.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_153",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "All the children in our class speak English fluently. (Re-write the sentence using: Every……………)",
+        "options": [
+          "Every child in my class speak English fluently.",
+          "Every children in my class speak English fluently."
+        ],
+        "answer": "Every child in my class speak English fluently.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_158",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "Hardly had the rains begun when we planted beans. (Rewrite the sentence beginning: No sooner….)",
+        "options": [
+          "No sooner the rains had begun than we planted beans.",
+          "No sooner we planted beans than the rains had begun.",
+          "No sooner had the rains begun than we had planted beans.",
+          "No sooner had the rains begun than we planted beans."
+        ],
+        "answer": "No sooner had the rains begun than we planted beans.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_30",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "There is almost no water left in bucket. (Re-write the sentence using: ……………hardly…………)",
+        "options": [
+          "There is hardly no water left in the bucket.",
+          "There is hardly any water left in the bucket."
+        ],
+        "answer": "There is hardly any water left in the bucket.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_150",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "That is the health centre. My little brother was born there. (Re-write as one sentence using: ………where……)",
+        "options": [
+          "That is the health center where my little brother stays.",
+          "That is the health center where my little brother was born."
+        ],
+        "answer": "That is the health center where my little brother was born.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_144",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "Girls who leave school for early marriage usually get problems in future. Rewrite the sentence using …………often…………)",
+        "options": [
+          "Girls who leave school for early marriage often get problems in future.",
+          "Girls who leave school for early marriage often don't get problems in future."
+        ],
+        "answer": "Girls who leave school for early marriage often get problems in future.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_139",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "Mukulo is carrying Ariho on a bicycle. (Rewrite the sentence beginning: Ariho.....)",
+        "options": [
+          "Ariho is being carried by Mukulo on a bicycle.",
+          "Ariho is riding on a bicycle with Mukulo.",
+          "Ariho and Mukulo are cycling together.",
+          "Ariho is carrying Mukulo on a bicycle."
+        ],
+        "answer": "Ariho is being carried by Mukulo on a bicycle.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_2",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "Jeroma preferred sweat potatoes to cassava. (Re-write the sentence using: ……more……)",
+        "options": [
+          "Jerome liked cassava more than sweet potatoes.",
+          "Jerome liked sweet potatoes more than cassava."
+        ],
+        "answer": "Jerome liked sweet potatoes more than cassava.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_148",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "Mark is very lazy. Mark cannot finish the work in time. (Re-write the sentence using: …………so…………that…………)",
+        "options": [
+          "Mark is so lazy that he cannot finish the work on time.",
+          "Mark is so lazy that he can finish the work on time."
+        ],
+        "answer": "Mark is so lazy that he cannot finish the work on time.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_173",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      },
+      {
+        "question": "All children hate parents who are quarrelsome. (Rewrite the sentence beginning: Every child....)",
+        "options": [
+          "Every child dislikes parents who are quarrelsome.",
+          "Every child loves parents who are quarrelsome.",
+          "Every child avoids parents who are quarrelsome.",
+          "Every child tolerates parents who are quarrelsome."
+        ],
+        "answer": "Every child dislikes parents who are quarrelsome.",
+        "mark": 1,
+        "id": "pleenglishcategory31-50_8",
+        "type": "multipleChoice",
+        "user_answer": null,
+        "sub_questions": []
+      }
+    ]
+  },
+  {
+    "category": 51,
+    "numberOfQuestions ": 1,
+    "questions": []
+  },
+  {
+    "category": 52,
+    "numberOfQuestions ": 1,
+    "questions": []
+  },
+  {
+    "category": 53,
+    "numberOfQuestions ": 1,
+    "questions": []
+  },
+  {
+    "category": 54,
+    "numberOfQuestions ": 1,
+    "questions": []
+  },
+  {
+    "category": 55,
+    "numberOfQuestions ": 1,
+    "questions": []
+  }
+]

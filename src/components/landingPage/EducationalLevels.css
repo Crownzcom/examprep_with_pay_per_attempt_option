@@ -1,0 +1,18 @@
+.edu-main-title {
+  font-family: Fredoka;
+  font-weight: 700;
+  font-size: 23px;
+  /* color: #242124; */
+  color: #3d404f;
+  font-style: normal;
+  line-height: 70px;
+  text-align: center;
+  padding: 6rem 1rem;
+}
+
+.edu-main-intro {
+  font-size: 16px;
+  font-weight: 400;
+  color: #3d404f;
+  line-height: 150%;
+}

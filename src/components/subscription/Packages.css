@@ -1,0 +1,146 @@
+:root {
+    /* Primary */
+    --linear-gradient: linear-gradient(hsl(236, 72%, 79%), hsl(237, 63%, 64%));
+    --linear-gradient2: linear-gradient(hsl(194, 87%, 17%), hsl(196, 23%, 23%));
+
+    /* Neutral */
+    --very-light-grayish-blue: hsl(240, 78%, 98%);
+    --light-grayish-blue: hsl(234, 14%, 74%);
+    --grayish-blue: hsl(233, 13%, 49%);
+    --dark-grayish-blue: hsl(232, 13%, 33%);
+    --btn-clr: hsl(237, 63%, 64%);
+    --hover: hsl(236, 72%, 79%);
+}
+
+.packages-container {
+    display: flex;
+    gap: 6rem;
+    justify-content: center;
+    place-content: center;
+    min-height: 100vh;
+    font-size: 0.9375rem;
+    font-family: "Montserrat", sans-serif;
+    background-color: var(--very-light-grayish-blue);
+    background-image: url(../../images/bg-top.svg), url(../../images/bg-bottom.svg);
+    background-repeat: no-repeat;
+    padding: 1.8rem 1rem;
+    background-origin: border-box;
+    background-position: top right -12rem, bottom left -10rem;
+}
+
+@media screen and (min-width: 968px) {
+    .packages-container {
+        background-position: top right, bottom left;
+    }
+}
+
+.package-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 1.2rem;
+    width: 20rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.283);
+    transition: transform 0.3s ease-in-out;
+    background-color: #ececff;
+    color: #4f3cc9;
+}
+
+.card-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.middle-card {
+    background-image: var(--linear-gradient);
+    color: white;
+}
+
+.package-card:hover {
+    transform: scale(1.05);
+}
+
+.package-tier,
+.package-price {
+    color: inherit;
+}
+
+.package-tier {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.package-price {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.package-features {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+.package-features li {
+    margin-bottom: 10px;
+}
+
+.package-features li:not(:last-child) {
+    border-bottom: 1px solid var(--light-grayish-blue);
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.package-learn-more {
+    background-image: var(--linear-gradient);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: auto;
+    border: none;
+}
+
+.package-learn-more:hover {
+    background-image: none;
+    background-color: transparent;
+    border: 1px solid var(--btn-clr);
+    color: var(--btn-clr);
+}
+
+.middle-button {
+    background-image: linear-gradient(hsl(0, 0%, 100%), hsl(0, 0%, 100%));
+    color: rgb(0, 64, 98);
+}
+
+.middle-button:hover {
+    background-image: none;
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    .packages-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .package-card {
+        max-width: none;
+        margin-bottom: 20px;
+    }
+
+    .middle-card {
+        margin-top: 0;
+    }
+
+    .package-price {
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+}

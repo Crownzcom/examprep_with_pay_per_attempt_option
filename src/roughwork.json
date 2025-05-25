@@ -1,0 +1,336 @@
+[
+  {
+    "category": 1,
+    "questions": {
+      "instruction": "Read the text carefully and respond to the task that follows.",
+      "question": "<p>Poverty is a situation where families and individuals lack the necessities of life, such as decent housing, adequate food, clothing, or other requirements for healthy living. The income of families and individuals living in conditions of poverty is not enough to afford these items.</p> <p>Many young people in school come from families that are facing the problem of poverty. Poverty makes it difficult for parents or guardians to provide the young with the basic requirements for decent or comfortable living at home or school. Conditions of poverty, if not well handled, can lead to a loss of self-esteem and affect academic performance and how young people relate to others. In an attempt to get what they do not have, some youth have resorted to such practices as prostitution, having relationships with sugar daddies and sugar mummies, and stealing from fellow students or other people.</p> <p>Young people should not devalue themselves by engaging in immoral or illegal activities to get money or other material things. Various measures can help them overcome poverty. The first thing young people in conditions of poverty should do is appreciate who they are and the efforts of their parents and guardians to educate them. We are all created in the image of God, poor or rich. We are all equal before God.</p> <p>Every parent would like their children to be as comfortable as possible. Young people should avoid comparing themselves to other people and passing judgment against themselves as being deprived. Such self-pity will only serve to demoralize them and rob them of energy for working hard to get out of poverty. They should also learn to be content with what they have and work towards making life better.</p> <p>As believers in God, they should not allow conditions of poverty to take away their happiness. True happiness comes from God, not material things.</p> <p>Conditions of poverty are not permanent. With hard work utilizing knowledge and skills acquired at school, young people can contribute to family efforts to get out of poverty. They should be positive, and discuss with their parents or guardians how they can contribute to increasing or saving family income.</p> <p>There is also a need for students to use their pocket money sparingly and make sure that all items like basins, uniforms, books, and scholastic materials are not lost. This saves parents the costly burden of replacing such items. Finally, young people should not make excessive demands on their parents or guardians, which parents or guardians cannot afford. This will only serve to frustrate the young people themselves as well as their guardians or parents.</p> <p><b>(Adapted from PIASCY, a student handbook on HIV/AIDS.)</b></p>",
+      "sub_questions": [
+        {
+          "question": "Select an option with the suitable measures young people should take to overcome poverty. (It should not exceed 140 words)",
+          "type": "multipleChoice",
+          "answer": [
+            {
+              "response_criteria": [
+                {
+                  "response": "<p>THE MEASURES YOUNG PEOPLE SHOULD TAKE TO OVERCOME POVERTY.</p> <p class='indented'>Young people should appreciate who they are and the efforts of their parents to educate them. They should avoid comparing themselves to other people and passing judgment against themselves as being deprived. They should also learn to be content with what they have and work towards making life better. As believers in God, young people should not allow conditions of poverty to take away their happiness. They should work hard, and utilize knowledge and skills acquired at school to contribute to family efforts to get out of poverty. They should be positive, and discuss with their parents how to contribute or increase family income. They need to use their pocket money sparingly and make sure items like basins, uniforms, and scholastic materials are not lost to save parents the costly burden of replacing them. Lastly, they should not make excessive demands their parents cannot afford.</p>",
+                  "comment": "To be confirmed ..."
+                },
+                {
+                  "response": "<p>THE MEASURES YOUNG PEOPLE NEED TO OVERCOME POVERTY.</p> <p class='indented'>Young people should value themselves and their parents' efforts to provide education. They should avoid negative comparisons and focus on their own potential. Contentment is important, but so is the ambition to improve their lives. Faith in God should offer strength, not discouragement. They must use their education to help their families overcome poverty, maintain a positive attitude, manage pocket money wisely, and protect school supplies. Finally, they should be mindful of their parents' financial limits and avoid excessive demands.</p>",
+                  "comment": "To be confirmed ..."
+                },
+                {
+                  "response": "<p>HOW YOUNG PEOPLE CAN OVERCOME POVERTY.</p> <p class='indented'>Young people must believe in their own worth and appreciate their parents' sacrifices. They should avoid self-pity and comparisons with others. Contentment with their current situation should be balanced with a drive to better their lives. Faith should be a source of strength during difficult times. They must use their education to support their families financially, maintain positivity, budget pocket money carefully, and protect school supplies. Understanding their parents' financial struggles and avoiding unnecessary demands is crucial.</p>",
+                  "comment": "To be confirmed ..."
+                },
+                {
+                  "response": "<p>THE PATH FOR YOUNG PEOPLE TO OVERCOME POVERTY.</p> <p class='indented'>Young people should have self-confidence and gratitude for their parents' support. They should avoid negative comparisons and focus on their strengths. While remaining content, they must also strive to improve their circumstances. Poverty shouldn't discourage their faith. They must apply their education to help their families financially, maintain a positive outlook, manage pocket money wisely, and protect school materials. Finally, they should respect their parents' financial limits and avoid making unnecessary demands.</p>",
+                  "comment": "To be confirmed ..."
+                },
+                {
+                  "response": "<p>A GUIDE FOR YOUNG PEOPLE TO OVERCOME POVERTY.</p> <p class='indented'>Young people need self-belief and appreciation for their parents’ efforts.  They should avoid negative comparisons and focus on their potential. While being content, they must have the determination to improve their lives.  Their faith should offer strength during difficult times. They should use their education to help their families overcome financial challenges, remain positive, budget pocket money carefully, and safeguard school supplies.  Finally, they should be understanding of their parents' financial struggles and avoid unnecessary demands.</p>",
+                  "comment": "To be confirmed ..."
+                }
+              ],
+              "score": 3
+            },
+            {
+              "response_criteria": [
+                {
+                  "response": "<p>THE MEASURES YOUNG PEOPLE NEED TO OVERCOME POVERTY.</p> <p class='indented'>Young people should appreciate themselves and their parents' efforts. They should avoid comparing themselves to others and remain focused on their own potential. While finding contentment, they should actively work to improve their lives. Faith should offer strength during difficult times. They should use their education to help their families financially, maintain a positive attitude, and manage their money responsibly. Finally, they should be mindful of their parents' financial limits and avoid excessive demands.</p>",
+                  "comment": "To be confirmed ..."
+                },
+                {
+                  "response": "<p>A GUIDE FOR YOUNG PEOPLE TO OVERCOME POVERTY.</p> <p class='indented'>Young people must believe in themselves and appreciate their parents' sacrifices. They should avoid self-doubt and negative comparisons.  Contentment is important, but so is the ambition to improve their situation. Faith should remain strong during challenging times. They should use their education to support their families, maintain positivity, and manage finances wisely. Understanding their parents' financial struggles and avoiding unnecessary demands is crucial.</p>",
+                  "comment": "To be confirmed ..."
+                },
+                {
+                  "response": "<p class='indented'>Young people should have self-belief and appreciate their parents’ efforts. They should focus on their potential and avoid negative comparisons. While content with what they have, they should strive to better their lives. Their faith should remain a source of strength. They must use their education to support their families, remain positive, and manage their money wisely.  Finally, they should understand their parents' financial struggles and avoid unnecessary demands.</p>",
+                  "comment": "No title"
+                },
+                {
+                  "response": "<p class='indented'>Young people must value themselves and acknowledge their parents' sacrifices. They should avoid comparing themselves negatively to others and focus on their strengths. While accepting their current situation, they must strive to create a better future. Their faith should be a source of hope. They should use their education to help their families overcome poverty, maintain a positive attitude, and responsibly manage their pocket money. Finally, they should be understanding of their parents' financial limits.</p>",
+                  "comment": "No title"
+                },
+                {
+                  "response": "<p>HOW YOUNG PEOPLE CAN OVERCOME POVERTY.</p> <p class='indented'>Young people need self-confidence and gratitude for their parents' support. They should avoid negative comparisons and focus on their goals.  While remaining content, they must strive to improve their circumstances. They should use their education to help their families financially, maintain positivity, and manage their finances responsibly.  Finally, they should be mindful of their parents' financial limits and avoid making unnecessary demands.</p>",
+                  "comment": "To be confirmed ..."
+                }
+              ],
+              "score": 2
+            },
+            {
+              "response_criteria": [
+                {
+                  "response": "<p>THE MEASURES YOUNG PEOPLE NEED TO OVERCOME POVERTY.</p> <p> <ul> <li>Young people should appreciate who they are.</li> <li>They should avoid comparing themselves to other people.</li> <li>They should also learn to be content with what they have.</li> <li>Young people should not allow conditions of poverty.</li> <li>They should utilize knowledge and skills acquired at school.</li> <li>Young people need to use their pocket money sparingly.</li> <li>They should avoid comparing themselves to other people.</li><ul> </p>",
+                  "comment": "Outlined ideas"
+                },
+                {
+                  "response": "<p>HOW YOUNG PEOPLE CAN OVERCOME POVERTY.</p> <p class='indented'>Young people should appreciate themselves, and the efforts of their parents to educate them, they should avoid comparing themselves to other people, and passing judgment against themselves as being deprived, they should also learn to be content with what they have, and work towards making life better, as believers in God, young people should not allow conditions of poverty to take away their happiness.</p>",
+                  "comment": "Use of commas throughout"
+                },
+                {
+                  "response": "<p>THE MEASURES YOUNG PEOPLE NEED TO OVERCOME POVERTY.</p> <p class='indented'>Young people should appreciate themselves and their parents' efforts. They should avoid comparing themselves to others.  They should use their education to help their families and manage money wisely. Finally, they should be mindful of their parents' financial limits.</p>",
+                  "comment": "To be confirmed ..."
+                },
+                {
+                  "response": "<p>A GUIDE FOR YOUNG PEOPLE TO OVERCOME POVERTY.</p> <p class='indented'>Young people must believe in themselves and appreciate their parents. They should focus on their own potential and avoid negative comparisons.  They should use their education to improve their situation and manage finances responsibly.  Understanding their parents' financial struggles is important.</p>",
+                  "comment": "To be confirmed ..."
+                },
+                {
+                  "response": "<p>THE PATH FOR YOUNG PEOPLE TO OVERCOME POVERTY.</p> <p class='indented'>Young people need self-confidence and gratitude for their parents' support. They should work hard in school and use their knowledge to help their families. They should manage their money carefully and avoid making excessive demands on their parents.</p>",
+                  "comment": "To be confirmed ..."
+                }
+              ],
+              "score": 1
+            },
+            {
+              "response_criteria": [
+                {
+                  "response": "<p>THE PATH FOR YOUNG PEOPLE TO OVERCOME POVERTY.</p> <p class='indented'>Young people should appreciate themselves and the efforts of their parents to educate them they should avoid comparing themselves to other people and passing judgment against themselves as being deprived they should also learn to be content with what they have and work towards making life better as believers in god young people should not allow conditions of poverty to take away their happiness.</p>",
+                  "comment": "No punctuation"
+                },
+                {
+                  "response": "<p>THE MEASURES YOUNG PEOPLE SHOULD TAKE TO OVERCOME POVERTY.</p> <p class='indented'>Young people should make sure they look good and are popular. They should hang out with cool people and avoid doing too much schoolwork.  If they want something, they should just take it. It's always good to get in a few fights to show you're tough.  They shouldn't worry about money because it doesn't really matter.</p>",
+                  "comment": "Unrelated Ideas"
+                },
+                {
+                  "response": "<p>A GUIDE FOR YOUNG PEOPLE TO OVERCOME POVERTY.</p> <p class='indented'>Young people must believe in themselves and always put their needs first. While acknowledging their parents' sacrifices, they shouldn't feel obligated to help. They shouldn't let negative comparisons hold them back from treating themselves.  Their faith should focus on bringing them wealth and good fortune. They should use their education for personal gain and aim for a high-paying job even if it doesn't benefit their family.</p>",
+                  "comment": "Over emphasis on self"
+                },
+                {
+                  "response": "<p>THE MEASURES YOUNG PEOPLE SHOULD TAKE TO OVERCOME POVERTY</p> <p class='indented'>Young people should appreciate themselves and their parents efforts they should avoid comparing themselves to others and remain focused on their own potential while finding contentment they should actively work to improve their lives faith should offer strength during difficult times they should use their education to help their families financially maintain a positive attitude and manage their money responsibly finally they should be mindful of their parents financial limits and avoid excessive demands</p>",
+                  "comment": "No punctuation"
+                },
+                {
+                  "response": "<p class='indented'>Young people must believe in themselves and appreciate their parents sacrifices they should avoid self-doubt and negative comparisons contentment is important but so is the ambition to improve their situation faith should remain strong during challenging times they should use their education to support their families maintain positivity and manage finances wisely understanding their parents financial struggles and avoiding unnecessary demands is crucial</p>",
+                  "comment": "No title and punctuation"
+                }
+              ],
+              "score": 0
+            }
+          ],
+          "id": "uce_eng_sectA1_1_sub_1",
+          "user_answer": "select value",
+          "user_score": "actual-score"
+        }
+      ],
+      "id": "uce_eng_sectA1_1"
+    }
+  },
+  {
+    "category": 2,
+    "questions": {
+      "instruction": "Read the text below and respond to the tasks below.",
+      "question": "<p>“Angodi Secondary Secondary was located in the center of Uganda, where the lively colours of the surrounding terrain reflected the lively lives of its people. This school, which was situated at the base of the towering Mount Kareu, saw the highs and lows of adolescent friendships, rivalries, and emotions. The story of an unexpected fight that was fueled by the difficulty of teenage love emerged at school.</p><p>Two friends named Samuel and Peter were in the middle of a conflict. They had shared secrets, jokes, and the kind of companionship that only comes from high school friends. Their friendship appeared to be unbreakable because they had been friends for so long, but when Aisha, a new student, joined their class, the delicate friendship between them began to go bad. Her arrival was like a breath of fresh air, drawing attention and raising murmurs in Angodi Secondary school. With her happy smile and lively conduct, Aisha unintentionally sparked a conflict between the two friends. Both Samuel and Peter were attracted by Aisha's presence, and what started as harmless love soon evolved into a competition neither had expected. The classroom, which used to be filled with laughter and group study sessions, became a battleground of insults and unsaid conflicts.</p><p>As the days passed, the rift between the friends widened. Samuel's attempts to engage Aisha in conversation were met with a cold shoulder, while Peter found himself as Aisha’s favourite. This created huge hatred between the two former friends.</p><p>One seemingly routine lunch break was the turning moment in the long-boiling tension. As the students assembled in small groups, conversing and sharing lunch, the sun burnt down on the courtyard, creating lengthy shadows. Ignorant of the storm gathering around her, Aisha was buried in reading her book as she sat at a corner table.</p><p>Samuel attacked Peter, accusing him of destroying their friendship by seeking Aisha's attention. Word by word, the two once friends were now exchanging bitterly. Sensing the approaching tempest, the nearby students gathered into a circle, their murmurs providing a backdrop for the approaching confrontation.</p> <p>BThe confrontation intensified into a physical fight. The once-united friends found themselves engaged in a huge fight, each one throwing severe punches at each other. Their friendship was now replaced by the bitter taste of betrayal. The compound that had witnessed countless friendships grow, now bore witness to the heartbreaking expiry of friendship.</p><p>Mr. Odongo, the head of disciplinary at the school, hurried to the scene while the fight was taking place. He parted the fighters with a severe look, clearly disappointed. With expressions that blended sorrow, rage, and shame, the two of them were led to the principal's office.</p>",
+      "sub_questions": [
+        {
+          "question": "<p>Samuel's attempts to engage Aisha in conversation were met with a cold shoulder”</p> <p>What is the meaning of this statement?</p>",
+          "type": "multipleChoice",
+          "answer": [
+            {
+              "response_criteria": [
+                {
+                  "response": "Samiel's advances towards Aisha were rejected",
+                  "comment": ""
+                },
+                {
+                  "response": "Samiel's advances towards Aisha were denied",
+                  "comment": ""
+                },
+                {
+                  "response": "Samiel's advances towards Aisha were refused",
+                  "comment": ""
+                },
+                {
+                  "response": "Samiel's advances towards Aisha were ignored",
+                  "comment": ""
+                },
+                {
+                  "response": "Samiel's advances towards Aisha were brushed off",
+                  "comment": ""
+                },
+                {
+                  "response": "Aisha was very disinterested in Samuel's advances towards her",
+                  "comment": ""
+                },
+                {
+                  "response": "Aisha distanced herself from Samuel's advances towards her",
+                  "comment": ""
+                },
+                {
+                  "response": "Aisha was unreceptive of samuel's advances towwards her",
+                  "comment": ""
+                },
+                {
+                  "response": "Samiel's advances towards Aisha were not entertained.",
+                  "comment": ""
+                }
+              ],
+              "score": 1
+            },
+            {
+              "response_criteria": [
+                {
+                  "response": "Aisha and Samuel had a deep conversation",
+                  "comment": ""
+                },
+                {
+                  "response": "Samuel found Aisha's company delightful",
+                  "comment": ""
+                },
+                {
+                  "response": "Aisha actively participated in discussions with Samuel",
+                  "comment": ""
+                },
+                {
+                  "response": "Samuel struggled to keep up with Aisha's witty remarks",
+                  "comment": ""
+                },
+                {
+                  "response": "Aisha politely excused herself from talking to Samuel.",
+                  "comment": ""
+                }
+              ],
+              "score": 0
+            }
+          ],
+          "id": "uce_eng_sectA2_2_sub_1",
+          "user_answer": "select value",
+          "user_score": "actual-score"
+        },
+        {
+          "question": "“Both Samuel and Peter were attracted by Aisha's presence” You are the head prefect, and this case was brought to you to solve, how would you resolve the conflict?",
+          "type": "multipleChoice",
+          "answers": [
+            {
+              "response_criteria": [
+                {
+                  "response": "I would encourage both to control their feelings and focus on their studies",
+                  "comment": ""
+                },
+                {
+                  "response": "I would involve the mediation of a counselor or a teacher to talk them into respecting their friendship.",
+                  "comment": ""
+                },
+                {
+                  "response": "I would encourage them to value their friendship more than anything else in this world.",
+                  "comment": ""
+                },
+                {
+                  "response": "As the head prefect, initiating de-escalation is crucial. I would separate Samuel and Peter, ensuring they're in a calm and private space conducive to open communication.",
+                  "comment": ""
+                },
+                {
+                  "response": "As the head prefect, actively listening for understanding is key. I'd aim to understand each of their perspectives on the situation, particularly how Aisha's arrival impacted their previously strong friendship.",
+                  "comment": ""
+                },
+                {
+                  "response": "As the head prefect, I would foster empathy and address the root cause. By encouraging them to articulate their hurt feelings, we can address the root cause of the conflict, which lies in the strain on their friendship, not Aisha.",
+                  "comment": ""
+                },
+                {
+                  "response": "As the head prefect, I would consider including Aisha's perspective depending on the situation.  If appropriate, I might involve her to clarify any misunderstandings and potentially facilitate a group apology if necessary.",
+                  "comment": ""
+                }
+              ],
+              "score": 1
+            },
+            {
+              "response_criteria": [
+                {
+                  "response": "As the head prefect, I'll gather the entire school in the courtyard and make Samuel and Peter apologize in front of everyone for their childish behavior. This will teach them a lesson and deter others from fighting",
+                  "comment": ""
+                },
+                {
+                  "response": "As the head prefect, I'll force them to shake hands and be friends again.",
+                  "comment": ""
+                },
+                {
+                  "response": "As the head prefect, I would take Samuels’s side and give Peter a harsher punishment since he started the fight and he was simply defending himself.",
+                  "comment": ""
+                },
+                {
+                  "response": "As the head prefect, I would simply give them both punishments for fighting. That should teach them not to disrupt school grounds again.",
+                  "comment": ""
+                },
+                {
+                  "response": "As the head prefect, I would have they both write apology letters and promise to never talk to Aisha again.",
+                  "comment": ""
+                },
+                {
+                  "response": "As the head prefect, I'll have them sit in the same room for five minutes and tell them to work it out",
+                  "comment": ""
+                },
+                {
+                  "response": "As the head prefect, I'll have them sit in the same room for five minutes and tell them to work it out",
+                  "comment": ""
+                }
+              ],
+              "score": 0
+            }
+          ],
+          "id": "uce_eng_sectA2_2_sub_2",
+          "user_answer": "select value",
+          "user_score": "actual-score"
+        },
+        {
+          "question": "Explain the feelings Samuel and Peter arouse in you.",
+          "type": "multipleChoice",
+          "answers": [
+            {
+              "response_criteria": [
+                {
+                  "response": "Disappointment, Peter and Samuel quickly forget about their friendship ",
+                  "comment": ""
+                },
+                {
+                  "response": " Anger or rage:While their actions might be understandable, the resort to violence could spark anger. A more mature approach would have been preferable.",
+                  "comment": ""
+                },
+                {
+                  "response": "Frustration: You might feel frustrated on their behalf. They let their emotions cloud their judgment, leading to a physical fight instead of a conversation.",
+                  "comment": ""
+                },
+                {
+                  "response": "Sadness:The passage paints a picture of a broken friendship. Witnessing the destruction of something once strong can evoke sadness.",
+                  "comment": ""
+                },
+                {
+                  "response": "Empathy:Perhaps you can understand their situation. Teenage emotions can be intense and confusing, and navigating them with a friend by your side can be challenging. You might feel empathetic towards their struggle.",
+                  "comment": ""
+                },
+                {
+                  "response": "Hope:Despite the negative ending, there might be a flicker of hope. Perhaps they can learn from this experience and rebuild their friendship, or at least learn to communicate better in the future.",
+                  "comment": ""
+                }
+              ],
+              "score": 1
+            },
+            {
+              "response_criteria": [
+                {
+                  "response": "Pride: There's nothing in the passage to suggest either Samuel or Peter feels proud about their actions.",
+                  "comment": ""
+                },
+                {
+                  "response": "Amusement: A fistfight is a serious situation, and the passage portrays the aftermath as sad and disappointing. Finding amusement wouldn't be an appropriate response.",
+                  "comment": ""
+                },
+                {
+                  "response": "Contentment: The friends are clearly unhappy with the situation. Their friendship is broken, and they're facing disciplinary action.",
+                  "comment": ""
+                }
+              ],
+              "score": 0
+            }
+          ],
+          "id": "uce_eng_sectA2_2_sub_3",
+          "user_answer": "select value",
+          "user_score": "actual-score"
+        }
+      ],
+      "id": "uce_eng_sectA2_2"
+    }
+  }
+]

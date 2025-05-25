@@ -1,0 +1,308 @@
+[
+  {
+    "id": "2_0",
+    "user_answer": "Fifty five thousand one",
+    "isEitherOr": false,
+    "category": 2
+  },
+  {
+    "id": "1_0",
+    "user_answer": "34",
+    "isEitherOr": false,
+    "category": 1
+  },
+  {
+    "id": "3_0",
+    "user_answer": "4 (finite 7)",
+    "isEitherOr": false,
+    "category": 3
+  },
+  {
+    "id": "4_0",
+    "user_answer": "n(P n Q) = 3",
+    "isEitherOr": false,
+    "category": 4
+  },
+  {
+    "id": "5_0",
+    "user_answer": "4ab - y(2x + 7)",
+    "isEitherOr": false,
+    "category": 5
+  },
+  {
+    "id": "1_0",
+    "user_answer": "324",
+    "isEitherOr": false,
+    "category": 1
+  },
+  {
+    "id": "2_0",
+    "user_answer": "Five thousand ninety",
+    "isEitherOr": false,
+    "category": 2
+  },
+  {
+    "id": "3_0",
+    "user_answer": "2",
+    "isEitherOr": false,
+    "category": 3
+  },
+  {
+    "id": "4_0",
+    "user_answer": "45",
+    "isEitherOr": false,
+    "category": 4
+  },
+  {
+    "id": "5_0",
+    "user_answer": "12:50 hours",
+    "isEitherOr": false,
+    "category": 5
+  },
+  {
+    "id": "6_0",
+    "user_answer": "Sum = 26",
+    "isEitherOr": false,
+    "category": 6
+  },
+  {
+    "id": "7_0",
+    "user_answer": "Probability = 2/3",
+    "isEitherOr": false,
+    "category": 7
+  },
+  {
+    "id": "8_0",
+    "user_answer": "4t + 3k",
+    "isEitherOr": false,
+    "category": 8
+  },
+  {
+    "id": "9_0",
+    "user_answer": "m = 5",
+    "isEitherOr": false,
+    "category": 9
+  },
+  {
+    "id": "11_0",
+    "user_answer": "5/6",
+    "isEitherOr": false,
+    "category": 11
+  },
+  {
+    "id": "10_0",
+    "user_answer": "45",
+    "isEitherOr": false,
+    "category": 10
+  },
+  {
+    "id": "12_0",
+    "user_answer": "10:00 a.m and 12:00 noon",
+    "isEitherOr": false,
+    "category": 12
+  },
+  {
+    "id": "13_0",
+    "user_answer": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/math/2018/13_1.png",
+    "isEitherOr": false,
+    "category": 13
+  },
+  {
+    "id": "13_0",
+    "user_answer": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/math/2018/13.png",
+    "isEitherOr": false,
+    "category": 13
+  },
+  {
+    "id": "14_0",
+    "user_answer": "985",
+    "isEitherOr": false,
+    "category": 14
+  },
+  {
+    "id": "15_0",
+    "user_answer": "2.605 x 10<sup>3</sup>",
+    "isEitherOr": false,
+    "category": 15
+  },
+  {
+    "id": "16_0",
+    "user_answer": "3",
+    "isEitherOr": false,
+    "category": 16
+  },
+  {
+    "id": "17_0",
+    "user_answer": "Median = 7",
+    "isEitherOr": false,
+    "category": 17
+  },
+  {
+    "id": "18_0",
+    "user_answer": "5 men",
+    "isEitherOr": false,
+    "category": 18
+  },
+  {
+    "id": "19_0",
+    "user_answer": "Capacity = 20 litres",
+    "isEitherOr": false,
+    "category": 19
+  },
+  {
+    "id": "20_0",
+    "user_answer": "Distance = 200 km",
+    "isEitherOr": false,
+    "category": 20
+  },
+  {
+    "id": "21_0_sub_1",
+    "user_answer": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/math/2016/21C.png",
+    "isEitherOr": false,
+    "category": 21
+  },
+  {
+    "id": "21_0_sub_1",
+    "user_answer": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/math/2016/21W.png",
+    "isEitherOr": false,
+    "category": 21
+  },
+  {
+    "id": "21_0_sub_2",
+    "user_answer": "t = 13",
+    "isEitherOr": false,
+    "category": 21
+  },
+  {
+    "id": "22_0",
+    "user_answer": "4.06 x 10<sup>-1</sup>",
+    "isEitherOr": false,
+    "category": 22
+  },
+  {
+    "id": "22_0_sub_1",
+    "user_answer": "Prime factors of 72 = 2<sup>3</sup> x3<sup>2</sup>",
+    "isEitherOr": false,
+    "category": 22
+  },
+  {
+    "id": "23_0_sub_1",
+    "user_answer": "Total expenditure = 6,600",
+    "isEitherOr": false,
+    "category": 23
+  },
+  {
+    "id": "23_0_sub_2",
+    "user_answer": "shs 2,000",
+    "isEitherOr": false,
+    "category": 23
+  },
+  {
+    "id": "24_0_sub_1",
+    "user_answer": "Height = 16 cm",
+    "isEitherOr": false,
+    "category": 24
+  },
+  {
+    "id": "24_0_sub_2",
+    "user_answer": "Height = 12 cm",
+    "isEitherOr": false,
+    "category": 24
+  },
+  {
+    "id": "25_0",
+    "user_answer": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/math/2018/25W.png",
+    "isEitherOr": false,
+    "category": 25
+  },
+  {
+    "id": "26_0_sub_1",
+    "user_answer": "Angle DAC = 40°",
+    "isEitherOr": false,
+    "category": 26
+  },
+  {
+    "id": "27_0_sub_1",
+    "user_answer": "45 minutes",
+    "isEitherOr": false,
+    "category": 27
+  },
+  {
+    "id": "27_0_sub_2",
+    "user_answer": "5 hours",
+    "isEitherOr": false,
+    "category": 27
+  },
+  {
+    "id": "27_0_sub_3",
+    "user_answer": "50 km/hr",
+    "isEitherOr": false,
+    "category": 27
+  },
+  {
+    "id": "28_0_sub_1",
+    "user_answer": "Discount = 1,000",
+    "isEitherOr": false,
+    "category": 28
+  },
+  {
+    "id": "28_0_sub_2",
+    "user_answer": "New price = 18,000",
+    "isEitherOr": false,
+    "category": 28
+  },
+  {
+    "id": "29_0_sub_1",
+    "user_answer": "1000 revolutions",
+    "isEitherOr": false,
+    "category": 29
+  },
+  {
+    "id": "29_0_sub_2",
+    "user_answer": "40 minutes",
+    "isEitherOr": false,
+    "category": 29
+  },
+  {
+    "id": "30_0_sub_1",
+    "user_answer": "Area = 96cm<sup>2</sup>",
+    "isEitherOr": false,
+    "category": 30
+  },
+  {
+    "id": "30_0_sub_2",
+    "user_answer": "DY = 8cm",
+    "isEitherOr": false,
+    "category": 30
+  },
+  {
+    "id": "31_0",
+    "user_answer": "shs 3,000",
+    "isEitherOr": false,
+    "category": 31
+  },
+  {
+    "id": "32_0_sub_1",
+    "user_answer": "20 poles",
+    "isEitherOr": false,
+    "category": 32
+  },
+  {
+    "id": "32_0_sub_1",
+    "user_answer": "20 poles",
+    "isEitherOr": false,
+    "category": 32
+  },
+  {
+    "id": "32_0_sub_2",
+    "user_answer": "shs 150,000",
+    "isEitherOr": false,
+    "category": 32
+  },
+  {
+    "id": "32_0_sub_2",
+    "user_answer": "shs 150,000",
+    "isEitherOr": false,
+    "category": 32
+  }
+]

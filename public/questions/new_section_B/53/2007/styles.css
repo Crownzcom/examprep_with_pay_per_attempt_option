@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width:980px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.instruction{
+  font-weight: bold;
+  font-size: 18px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.content {
+  max-width: 100%; 
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #000;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.passage {
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px solid #141212;
+  font-size: 16px;
+  max-width: calc(100% - 40px);
+  box-sizing: border-box;
+}
+
+input[type="text"]{
+    padding: 4px;
+    border: 1px solid #312e2e;
+    font-size: 16px;
+    max-width: calc(100% - 200px);
+    margin: 5px;
+    background-color: white;
+    border-radius: 0.5px;
+    height: 15px;
+}
+
+.tick,
+.cross{
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+.answer {
+    margin-left: 10px;
+    color: green;
+}
+  
+.tick, .correct{
+  color: green;
+}
+
+.cross, .wrong {
+  color: red;
+}
+
+.guide{
+    border: 1px solid #141212; 
+    text-align: center;
+    font-size: 16px;
+    max-width: 90%;
+}
+
+@media only screen and (min-width: 600px) {
+  .content {
+      max-width: 1200px;
+      margin: 0 auto; 
+  }
+}

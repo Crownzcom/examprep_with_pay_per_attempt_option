@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width:980px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  .instruction{
+    font-weight: bold;
+    font-size: 18px;
+    margin: 5px;
+    padding: 5px;
+}
+  
+  .draggable-sentence{
+    cursor: pointer;
+  }
+  
+  .draggable-sentence,.dropped-sentence,.sentenceInOrder {
+    margin: 10px 0;
+    padding: 5px;
+    border-radius: 5px;
+  }
+
+  .draggable-sentence{
+    background-color: #f2f2f2;
+  }
+  
+  .correct {
+    color: green;
+  }
+  
+  .incorrect {
+    color: red;
+  }
+  
+  #drag-container,
+  #drop-container,
+  #result-container {
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    min-height: 100px;
+  }
+  
+  .tick,
+  .cross{
+    font-size: 25px;
+    margin-left: 10px;    
+  }
+  
+  .tick {
+    color: green;
+  }
+  
+  .cross {
+    color: red;
+  }
+  
+  .drop-placeholder{
+    color: red;
+  }
+  
+  .hidden{
+    display: none;
+  }
+
+  .right-aligned{
+    text-align: right;
+  }
+
+  @media only screen and (min-width: 600px) {
+    .content {
+        max-width: 1200px;
+        margin: 0 auto; 
+    }
+}

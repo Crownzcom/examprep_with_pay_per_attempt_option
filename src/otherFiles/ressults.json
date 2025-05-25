@@ -1,0 +1,1465 @@
+[
+  {
+    "category": 1,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one practice that can promote order in a home",
+        "type": "multipleChoice",
+        "answer": ["By respecting one another"],
+        "options": ["By respecting one another", "By fighting corruption"],
+        "id": "ple_sst_sect_A1_4",
+        "user_answer": "By fighting corruption",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_0"
+  },
+  {
+    "category": 2,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "What does the black color of the Uganda national flag represent?",
+        "type": "multipleChoice",
+        "answer": ["The black color represents the African people."],
+        "options": [
+          "The black color represents the sun.",
+          "The black color represents the African people.",
+          "The black color represents the brotherhood of the African people."
+        ],
+        "id": "ple_sst_sect_A2_9",
+        "user_answer": "The black color represents the brotherhood of the African people.",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_1"
+  },
+  {
+    "category": 3,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one disadvantage of building in a wetland.",
+        "type": "multipleChoice",
+        "answer": ["It may lead to frequent floods during rainy seasons"],
+        "options": [
+          "It may lead to frequent floods during rainy seasons",
+          "It may lead to soil erosion"
+        ],
+        "id": "ple_sst_sect_A3_16",
+        "user_answer": "It may lead to soil erosion",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_2"
+  },
+  {
+    "category": 4,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Which neighboring country of Uganda is mainly covered by equatorial rain forests?",
+        "type": "multipleChoice",
+        "answer": ["Democratic Republic of Congo"],
+        "options": [
+          "Democratic Republic of Congo",
+          "Rwanda",
+          "Kenya",
+          "Tanzania",
+          "South Sudan"
+        ],
+        "id": "ple_sst_sect_A4_14",
+        "user_answer": "Rwanda",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_3"
+  },
+  {
+    "category": 5,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select the mineral that is used for making electric wires.",
+        "type": "multipleChoice",
+        "answer": ["Copper"],
+        "options": ["Coal", "Aluminium", "Gold", "Copper"],
+        "id": "ple_sst_sect_A5_7",
+        "user_answer": "Gold",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_4"
+  },
+  {
+    "category": 6,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select one tribe in Uganda that belongs to the Nilo-Hamites.",
+        "type": "multipleChoice",
+        "answer": [
+          "Iteso",
+          "Karamajong",
+          "Kumam",
+          "Jie",
+          "Dodoth",
+          "Kakwa",
+          "Pokot",
+          "Tepeth",
+          "Pian",
+          "Bokora",
+          "Upe",
+          "Labwor."
+        ],
+        "options": [
+          "Pian",
+          "Bokora",
+          "Upe",
+          "Labwor.",
+          "Iteso",
+          "Karamajong",
+          "Kumam",
+          "Jie",
+          "Baganda",
+          "Bagishu",
+          "Dodoth",
+          "Kakwa",
+          "Pokot",
+          "Tepeth",
+          "Masai",
+          "Banyoro"
+        ],
+        "id": "ple_sst_sect_A6_15",
+        "user_answer": "Upe",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_5"
+  },
+  {
+    "category": 7,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Why does Kalanga district receive convectional rainfall?",
+        "type": "multipleChoice",
+        "answer": [
+          "Kalangala receives convection rainfall because it is within Lake Victoria"
+        ],
+        "options": [
+          "Kalangala receives convection rainfall because it is near the equator",
+          "Kalangala receives convection rainfall because it is within Lake Victoria"
+        ],
+        "id": "ple_sst_sect_A7_17",
+        "user_answer": "Kalangala receives convection rainfall because it is near the equator",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_6"
+  },
+  {
+    "category": 8,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select the meaning of the term population density",
+        "type": "multipleChoice",
+        "answer": [
+          "It is the number of people living in an area per square kilometer"
+        ],
+        "options": [
+          "It is a large number of people living in an area",
+          "It is the number of people living in an area per square kilometer"
+        ],
+        "id": "ple_sst_sect_A8_4",
+        "user_answer": "It is the number of people living in an area per square kilometer",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_7"
+  },
+  {
+    "category": 9,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Apart from constructing schools, select any one way missionaries contributed in improving the life of the people of Africa.",
+        "type": "multipleChoice",
+        "answer": [
+          "They built hospitals",
+          "They built roads",
+          "Built hospitals",
+          "Introduced modern medicine"
+        ],
+        "options": [
+          "They built prisons",
+          "They built hospitals",
+          "They built roads",
+          "They promoted trade",
+          "Built roads",
+          "They introduced political governance",
+          "Built hospitals",
+          "Introduced modern medicine"
+        ],
+        "id": "ple_sst_sect_A9_13",
+        "user_answer": "They built roads",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_8"
+  },
+  {
+    "category": 10,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "The diagram below shows a wind vane. Select the image in which letter K shows the direction in which the wind is blowing",
+        "type": "multipleChoice",
+        "image": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2017_10.png",
+        "answer": [
+          "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2017_10A.png"
+        ],
+        "options": [
+          "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2017_10A.png",
+          "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2017_10B.png"
+        ],
+        "id": "ple_sst_sect_A10_8",
+        "user_answer": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2017_10B.png",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_9"
+  },
+  {
+    "category": 11,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "State the use of a wind-sock at a weather station.",
+        "type": "multipleChoice",
+        "answer": ["To measure the direction of wind"],
+        "options": [
+          "To measure atmospheric pressure",
+          "To measure the direction of wind",
+          "To measure the amount of rainfall"
+        ],
+        "id": "ple_sst_sect_A11_15",
+        "user_answer": "To measure the amount of rainfall",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_10"
+  },
+  {
+    "category": 12,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select a reason why Mombasa is hotter than Kampala",
+        "type": "multipleChoice",
+        "answer": ["Mombasa is at a lower altitude compared to Kampala"],
+        "options": [
+          "Mombasa is at a higher altitude compared to Kampala",
+          "Mombasa is at a lower altitude compared to Kampala"
+        ],
+        "id": "ple_sst_sect_A12_20",
+        "user_answer": "Mombasa is at a higher altitude compared to Kampala",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_11"
+  },
+  {
+    "category": 13,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "What is meant by a tributary?",
+        "type": "multipleChoice",
+        "answer": ["A tributary is a small river that joins the main river"],
+        "options": [
+          "A tributary is a big river that drains a small river",
+          "A tributary is a small river that joins the main river"
+        ],
+        "id": "ple_sst_sect_A13_2",
+        "user_answer": "A tributary is a small river that joins the main river",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_12"
+  },
+  {
+    "category": 14,
+    "instructions": null,
+    "questions": [
+      {
+        "question": " State any one economic importance of River Tana to Kenya",
+        "type": "multipleChoice",
+        "answer": [
+          "It provides water for irrigation",
+          "It is a source of fish for Kenyans"
+        ],
+        "options": [
+          "It provides water for irrigation",
+          "It acts as a border between Kenya and Tanzania",
+          "It is a source of fish for Kenyans"
+        ],
+        "id": "ple_sst_sect_A14_11",
+        "user_answer": "It acts as a border between Kenya and Tanzania",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_13"
+  },
+  {
+    "category": 15,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Apart from cultivating crops and grazing animals, Select any other way the people of Uganda use land to earn a living",
+        "type": "multipleChoice",
+        "answer": [
+          "Mining",
+          "Building",
+          "Poultry keeping",
+          "Bee keeping",
+          "Farming"
+        ],
+        "options": [
+          "Fishing",
+          "Mining",
+          "land degradation",
+          "Building",
+          "Poultry keeping",
+          "Bee keeping",
+          "land speculation",
+          "Farming",
+          "Forestry"
+        ],
+        "id": "ple_sst_sect_A15_13",
+        "user_answer": "Building",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_14"
+  },
+  {
+    "category": 16,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "State any one way in which a high population may negatively affect the provision of social services in an area",
+        "type": "multipleChoice",
+        "answer": ["It leads to shortage of social services"],
+        "options": [
+          "It leads to shortage of labour",
+          "It leads to shortage of social services"
+        ],
+        "id": "ple_sst_sect_A16_3",
+        "user_answer": "It leads to shortage of social services",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_15"
+  },
+  {
+    "category": 17,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select one reason why the people living in the Sahara desert wear turbans on their heads.",
+        "type": "multipleChoice",
+        "answer": ["To protect them from direct heat of the sun"],
+        "options": [
+          "To protect them from direct heat of the sun",
+          "Because they want to look good"
+        ],
+        "id": "ple_sst_sect_A17_16",
+        "user_answer": "Because they want to look good",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_16"
+  },
+  {
+    "category": 18,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "How did the Masai make the movement of early explorers to East Africa difficult?",
+        "type": "multipleChoice",
+        "answer": ["The Masai fought the explorers"],
+        "options": [
+          "Fought them",
+          "Traded with them peacefully",
+          "The Masai fought the explorers",
+          "Offered them hospitality",
+          "Language barrier"
+        ],
+        "id": "ple_sst_sect_A18_9",
+        "user_answer": "Language barrier",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_17"
+  },
+  {
+    "category": 19,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "State any one way in which the national constitution guides people on the use of the Uganda National flag",
+        "type": "multipleChoice",
+        "answer": ["It spells out on how it should be respected or handled"],
+        "options": [
+          "It raises the Uganda flag during national events",
+          "It spells out on how it should be respected or handled"
+        ],
+        "id": "ple_sst_sect_A19_3",
+        "user_answer": "It spells out on how it should be respected or handled",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_18"
+  },
+  {
+    "category": 20,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "How is proper disposal of plastics and polythene bags useful to the environment?",
+        "type": "multipleChoice",
+        "answer": ["It helps to prevent land and water pollution"],
+        "options": [
+          "It helps to prevent land and water pollution",
+          "It improves the income of people",
+          "It increases tax income for the government"
+        ],
+        "id": "ple_sst_sect_A20_6",
+        "user_answer": "It improves the income of people",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_19"
+  },
+  {
+    "category": 21,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Which group of people introduced the idea of salt mining in Uganda?",
+        "type": "multipleChoice",
+        "answer": ["Bachwezi"],
+        "options": [
+          "Baganda",
+          "Basoga",
+          "Bachwezi",
+          "British colonialists",
+          "Banyankole",
+          "Batooro"
+        ],
+        "id": "ple_sst_sect_A21_9",
+        "user_answer": "Basoga",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_20"
+  },
+  {
+    "category": 22,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one way in which droughts affect cattle keepers in East Africa.",
+        "type": "multipleChoice",
+        "answer": ["It leads to scarcity of pasture and water"],
+        "options": [
+          "It leads to cattle rustling",
+          "It leads to scarcity of pasture and water"
+        ],
+        "id": "ple_sst_sect_A22_9",
+        "user_answer": "It leads to scarcity of pasture and water",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_21"
+  },
+  {
+    "category": 23,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one reason why smuggling should not be allowed in the country",
+        "type": "multipleChoice",
+        "answer": ["It causes the country to lose revenue"],
+        "options": [
+          "It promotes trade in the country",
+          "It causes the country to lose revenue"
+        ],
+        "id": "ple_sst_sect_A23_6",
+        "user_answer": "It promotes trade in the country",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_22"
+  },
+  {
+    "category": 24,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "How can farmers of area marked A control soil erosion?",
+        "type": "multipleChoice",
+        "image": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2018_24.png",
+        "answer": ["They use terraces to control soil erosion"],
+        "options": [
+          "They use terraces to control soil erosion",
+          "They can use valley dams"
+        ],
+        "id": "ple_sst_sect_A24_6",
+        "user_answer": "They can use valley dams",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_23"
+  },
+  {
+    "category": 25,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "State any one challenge faced by people living in area marked B",
+        "type": "multipleChoice",
+        "image": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2018_24.png",
+        "answer": ["They face a challenge of soil erosion"],
+        "options": [
+          "They face a challenge of floods",
+          "They face a challenge of soil erosion"
+        ],
+        "id": "ple_sst_sect_A25_5",
+        "user_answer": "They face a challenge of soil erosion",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_24"
+  },
+  {
+    "category": 26,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Who is a pedestrian?",
+        "type": "multipleChoice",
+        "answer": ["A pedestrian is a person who walks along the road"],
+        "options": [
+          "A pedestrian is a person who walks home",
+          "A pedestrian is a person who walks along the road"
+        ],
+        "id": "ple_sst_sect_A26_1",
+        "user_answer": "A pedestrian is a person who walks along the road",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_25"
+  },
+  {
+    "category": 27,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "State any one requirement for a citizen to be elected a chairperson of a local council committee in Uganda",
+        "type": "multipleChoice",
+        "answer": ["One must be eighteen years and above"],
+        "options": [
+          "One must have attained higher education",
+          "One must be eighteen years and above"
+        ],
+        "id": "ple_sst_sect_A27_2",
+        "user_answer": "One must be eighteen years and above",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_26"
+  },
+  {
+    "category": 28,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one through which parents can ensure equal treatment of boys and girls at home",
+        "type": "multipleChoice",
+        "answer": ["By giving them similar tasks to perform"],
+        "options": [
+          "By teaching the cultural values",
+          "By giving them similar tasks to perform"
+        ],
+        "id": "ple_sst_sect_A28_2",
+        "user_answer": "By teaching the cultural values",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_27"
+  },
+  {
+    "category": 29,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one way in which the temperate grasslands are economically important to the people of South Africa",
+        "type": "multipleChoice",
+        "answer": ["They promote tourism"],
+        "options": [
+          "They promote tourism",
+          "They promote environmental conservation"
+        ],
+        "id": "ple_sst_sect_A29_3",
+        "user_answer": "They promote tourism",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_28"
+  },
+  {
+    "category": 30,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select one reason why the Antarctica continent is not suitable for human settlement",
+        "type": "multipleChoice",
+        "answer": ["Because it is very cold"],
+        "options": ["Because it is very cold", "Because its far south"],
+        "id": "ple_sst_sect_A30_2",
+        "user_answer": "Because it is very cold",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_29"
+  },
+  {
+    "category": 31,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "What causes landslides in highland areas?",
+        "type": "multipleChoice",
+        "answer": ["Heavy rainfall"],
+        "options": [
+          "Low rainfall",
+          "Afforestation",
+          "Dense Vegetation",
+          "Heavy rainfall"
+        ],
+        "id": "ple_sst_sect_A31_1",
+        "user_answer": "Afforestation",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_30"
+  },
+  {
+    "category": 32,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one way in which the finding of the sea route to India benefitted the Portuguese",
+        "type": "multipleChoice",
+        "answer": ["They got new trade items ie silk and spices"],
+        "options": [
+          "They got new slave markets",
+          "They got new trade items ie silk and spices"
+        ],
+        "id": "ple_sst_sect_A32_4",
+        "user_answer": "They got new trade items ie silk and spices",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_31"
+  },
+  {
+    "category": 33,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Why is Mwalimu Julius Nyerere Kambarage remembered in the history of Tanzania?",
+        "type": "multipleChoice",
+        "answer": ["He led Tanganyika to independence"],
+        "options": [
+          "He led Tanganyika to independence",
+          "He stopped slave trade in Tanzania"
+        ],
+        "id": "ple_sst_sect_A33_1",
+        "user_answer": "He led Tanganyika to independence",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_32"
+  },
+  {
+    "category": 34,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Why is East Africa referred to as the cradle land of the human race",
+        "type": "multipleChoice",
+        "answer": [
+          "The oldest human skull of early man was discovered in East Africa"
+        ],
+        "options": [
+          "Early man lived in East Africa",
+          "The oldest human skull of early man was discovered in East Africa"
+        ],
+        "id": "ple_sst_sect_A34_2",
+        "user_answer": "The oldest human skull of early man was discovered in East Africa",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_33"
+  },
+  {
+    "category": 35,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select one challenge faced by miners who use the underground method of mining",
+        "type": "multipleChoice",
+        "answer": ["Death of miners in case mines collapse"],
+        "options": [
+          "They face a problem of high taxes",
+          "Death of miners in case mines collapse"
+        ],
+        "id": "ple_sst_sect_A35_1",
+        "user_answer": "Death of miners in case mines collapse",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_34"
+  },
+  {
+    "category": 36,
+    "instructions": "For each of the questions 36 to 40, click on 'EITHER' to answer the Christian question and 'OR' to answer the Islamic question.",
+    "questions": [
+      {
+        "question": "Select any one book of the law in the Bible.",
+        "type": "multipleChoice",
+        "answer": ["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy"],
+        "options": [
+          "Matthew",
+          "Genesis",
+          "Luke",
+          "Acts",
+          "Exodus",
+          "Mark",
+          "Leviticus",
+          "Numbers",
+          "Romans",
+          "Deuteronomy"
+        ],
+        "id": "ple_sst_sectA_either_23",
+        "user_answer": "Luke",
+        "sub_questions": []
+      },
+      {
+        "question": "Select the fasting period for Muslims",
+        "type": "multipleChoice",
+        "answer": ["Ramadan"],
+        "options": ["Lent", "Advent", "Ramadan", "Easter", "Christmas"],
+        "id": "ple_sst_sectA_or_26",
+        "user_answer": "Advent",
+        "sub_questions": []
+      },
+      {
+        "question": "Select the mountain where Moses received the Ten Commandments",
+        "type": "multipleChoice",
+        "answer": ["Mount Sinai"],
+        "options": [
+          "Mount Nebo",
+          "Mount Sinai",
+          "Mount Horeb",
+          "Mount Zion",
+          "Mount Carmel"
+        ],
+        "id": "ple_sst_sectA_either_2",
+        "user_answer": "Mount Nebo",
+        "sub_questions": []
+      },
+      {
+        "question": "What pillar of Islam makes one join Islam?",
+        "type": "multipleChoice",
+        "answer": ["Shahada", "Shahadah"],
+        "options": ["Shahada", "Salat", "Zakat", "Sawm", "Hajj", "Shahadah"],
+        "id": "ple_sst_sectA_or_1",
+        "user_answer": "Zakat",
+        "sub_questions": []
+      },
+      {
+        "question": "Select any one way in which a christian can improve the lives of people suffering in their community",
+        "type": "multipleChoice",
+        "answer": ["By constructing orphanages"],
+        "options": ["By going to church", "By constructing orphanages"],
+        "id": "ple_sst_sectA_either_10",
+        "user_answer": "By constructing orphanages",
+        "sub_questions": []
+      }
+    ],
+    "$id": "document_35"
+  },
+  {
+    "category": 41,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Study the sketch map of Uganda below and answer the questions that follow:",
+        "image": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2013_41.png",
+        "sub_questions": [
+          {
+            "question": "Select the ethnic group that followed the route marked by the arrows",
+            "type": "multipleChoice",
+            "answer": ["Bantu"],
+            "options": [
+              "Bantu",
+              "The Nile Hamites",
+              "The Nilotics",
+              "The Hamites"
+            ],
+            "id": "ple_sst_sect_B41_11_sub_1",
+            "user_answer": "They were escaping from diseases"
+          },
+          {
+            "question": "Select any three reasons why the ethnic group in (a) above left their original home land",
+            "type": "check_box",
+            "answer": [
+              "They were escaping from diseases",
+              "They left due to famine in their original home land",
+              "They left to look for fertile areas"
+            ],
+            "options": [
+              "They were escaping from diseases",
+              "They migrated to look for pasture and water for their cattle",
+              "They left due to famine in their original home land",
+              "They left to look for fertile areas",
+              "They left to escape cattle rustlers"
+            ],
+            "id": "ple_sst_sect_B41_11_sub_2",
+            "user_answer": null
+          }
+        ],
+        "id": "ple_sst_sect_B41_11",
+        "user_answer": null
+      }
+    ],
+    "$id": "document_36"
+  },
+  {
+    "category": 42,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Study the sketch map of East Africa below and answer the questions that follow",
+        "image": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2019_42.png",
+        "sub_questions": [
+          {
+            "question": "Select the ethnic group that settled in the area marked T.",
+            "type": "multipleChoice",
+            "answer": ["Cushites", "Hamites"],
+            "options": [
+              "Bantu",
+              "Nilo Hamites",
+              "Hamites",
+              "Cushites",
+              "Masai"
+            ],
+            "id": "ple_sst_sect_B42_5_sub_1",
+            "user_answer": "Olduvai gorge Stone Age site"
+          },
+          {
+            "question": "Select any one of the archaeological sites in the area marked S",
+            "type": "multipleChoice",
+            "answer": [
+              "Lake Eyasi Stone Age site",
+              "Apis rock Stone Age site",
+              "Engaruka Stone Age site",
+              "Olduvai gorge Stone Age site"
+            ],
+            "options": [
+              "Great Rift Valley site",
+              "Kilimanjaro Stone Age site",
+              "Lake Eyasi Stone Age site",
+              "Apis rock Stone Age site",
+              "Engaruka Stone Age site",
+              "Zanzibar Stone Age site",
+              "Victoria Falls site",
+              "Olduvai gorge Stone Age site"
+            ],
+            "id": "ple_sst_sect_B42_5_sub_2",
+            "user_answer": "To find out where it ends"
+          },
+          {
+            "question": "Select any two reasons why colonialists were interested in finding out the source of River marked Q above.",
+            "type": "check_box",
+            "answer": [
+              "To find out whether it was navigable",
+              "To strengthen their position in Egypt"
+            ],
+            "options": [
+              "To find out whether it was navigable",
+              "To find out where it ends",
+              "To strengthen their position in Egypt"
+            ],
+            "id": "ple_sst_sect_B42_5_sub_3",
+            "user_answer": null
+          }
+        ],
+        "id": "ple_sst_sect_B42_5",
+        "user_answer": null
+      }
+    ],
+    "$id": "document_37"
+  },
+  {
+    "category": 43,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any two reasons why the government carries out population census.",
+        "type": "check_box",
+        "answer": [
+          "To know the number of people in a country",
+          "To establish educational level of citizens"
+        ],
+        "options": [
+          "To distribute land to the people",
+          "To know the number of people in a country",
+          "To establish educational level of citizens"
+        ],
+        "sub_questions": [
+          {
+            "question": "Select any two reasons why the slopes of mountain Elgon have a high population.",
+            "type": "check_box",
+            "answer": [
+              "Because of the presence of volcanic fertile soils",
+              "Because the slopes of mountain Elgon receives reliable rainfall"
+            ],
+            "options": [
+              "Because of the presence of volcanic fertile soils",
+              "Because the slopes of mountain Elgon receives reliable rainfall",
+              "Because its safe to live on the slopes of mountain Elgon"
+            ],
+            "id": "ple_sst_sect_B43_10_sub_1",
+            "user_answer": null
+          }
+        ],
+        "id": "ple_sst_sect_B43_10",
+        "user_answer": [
+          "To know the number of people in a country",
+          "To establish educational level of citizens"
+        ]
+      }
+    ],
+    "$id": "document_38"
+  },
+  {
+    "category": 44,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select the elements of wind that are measured at weather station.",
+        "type": "check_box",
+        "answer": ["Speed of wind", "The direction of wind"],
+        "options": [
+          "Speed of wind",
+          "The direction of wind",
+          "Ocean Conditions",
+          "Air Quality"
+        ],
+        "sub_questions": [
+          {
+            "question": "Why are the North-East and South-Eastern monsoon winds called trade winds?",
+            "type": "multipleChoice",
+            "answer": [
+              "They were used to sail the boats/dhows of early traders to and from the coast of East Africa"
+            ],
+            "options": [
+              "Because they came from the North-East and South-East",
+              "They were used to sail the boats/dhows of early traders to and from the coast of East Africa"
+            ],
+            "id": "ple_sst_sect_B44_9_sub_1",
+            "user_answer": "Because they come from a semi-desert"
+          },
+          {
+            "question": "Select one reason why the North-East trade winds that blow towards the horn of Africa do not bring rainfall.",
+            "type": "multipleChoice",
+            "answer": ["They do not carry moisture"],
+            "options": [
+              "They do not carry moisture",
+              "Because they come from a semi-desert"
+            ],
+            "id": "ple_sst_sect_B44_9_sub_2",
+            "user_answer": null
+          }
+        ],
+        "id": "ple_sst_sect_B44_9",
+        "user_answer": ["Ocean Conditions", "The direction of wind"]
+      }
+    ],
+    "$id": "document_39"
+  },
+  {
+    "category": 45,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Apart from Uganda and Kenya, select two other countries which are members of the East African community",
+        "type": "check_box",
+        "answer": ["Tanzania", "Burundi"],
+        "options": ["Tanzania", "Kenya", "Burundi", "Uganda"],
+        "sub_questions": [
+          {
+            "question": "Select any two reasons why Uganda should live peacefully with her neighbouring countries",
+            "type": "check_box",
+            "answer": [
+              "It helps to promote trade with Uganda's  neighbouring countries",
+              "It helps to have free movement of people, goods and service"
+            ],
+            "options": [
+              "It helps to fight corruption",
+              "It helps to promote trade with Uganda's  neighbouring countries",
+              "It helps to have free movement of people, goods and service",
+              "It helps to prevent electoral violence in Uganda"
+            ],
+            "id": "ple_sst_sect_B45_14_sub_1",
+            "user_answer": null
+          }
+        ],
+        "id": "ple_sst_sect_B45_14",
+        "user_answer": ["Burundi", "Uganda"]
+      }
+    ],
+    "$id": "document_40"
+  },
+  {
+    "category": 46,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any two local materials from the environment which are used to make crafts",
+        "type": "check_box",
+        "answer": ["Papyrus", "Sisal"],
+        "options": ["Papyrus", "Bauxite", "Sisal", "Limestone"],
+        "sub_questions": [
+          {
+            "question": "Select any two examples of crafts made from local materials",
+            "type": "check_box",
+            "answer": ["Mats", "Brooms"],
+            "options": ["Cement", "Mats", "Salt", "Brooms"],
+            "id": "ple_sst_sect_B46_5_sub_1",
+            "user_answer": null
+          }
+        ],
+        "id": "ple_sst_sect_B46_5",
+        "user_answer": ["Sisal", "Limestone"]
+      }
+    ],
+    "$id": "document_41"
+  },
+  {
+    "category": 47,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Below is a sketch map of an area. Use it to answer the questions that follow.",
+        "image": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2022_47.png",
+        "sub_questions": [
+          {
+            "question": "Select the month of the year that received the highest of rainfall",
+            "type": "multipleChoice",
+            "answer": ["July"],
+            "options": ["July", "June", "January", "March", "September"],
+            "id": "ple_sst_sect_B47_3_sub_1",
+            "user_answer": "Tropical climate"
+          },
+          {
+            "question": "Identify the type of climate shown in the table",
+            "type": "multipleChoice",
+            "answer": ["Desert climate"],
+            "options": [
+              "Desert climate",
+              "Tropical climate",
+              "Moist Climatic",
+              "Savannah climate",
+              "Temperate climate"
+            ],
+            "id": "ple_sst_sect_B47_3_sub_2",
+            "user_answer": "6<sup>o</sup>c"
+          },
+          {
+            "question": "What is the temperature range of the climate shown in the table?",
+            "type": "multipleChoice",
+            "answer": ["7<sup>o</sup>c"],
+            "explanation": "Range = Highest - Lowest\n = 44<sup>o</sup>c - 37<sup>o</sup>c\n = 7<sup>o</sup>c",
+            "options": ["8<sup>o</sup>c", "6<sup>o</sup>c", "7<sup>o</sup>c"],
+            "id": "ple_sst_sect_B47_3_sub_3",
+            "user_answer": "Offshore winds"
+          },
+          {
+            "question": "Select one factor that influences the type of climate shown in the table",
+            "type": "multipleChoice",
+            "answer": ["Cold ocean current", "Dry winds", "Offshore winds"],
+            "options": [
+              "Offshore winds",
+              "Monsoons,",
+              "Tropical cyclones",
+              "Cold ocean current",
+              "Desertification,",
+              "Dry winds",
+              "Polar ice caps"
+            ],
+            "id": "ple_sst_sect_B47_3_sub_4",
+            "user_answer": null
+          }
+        ],
+        "id": "ple_sst_sect_B47_3",
+        "user_answer": null
+      }
+    ],
+    "$id": "document_42"
+  },
+  {
+    "category": 48,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Study the sketch map of East Africa below and then answer the questions that follow",
+        "image": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/1st_paper.png",
+        "sub_questions": [
+          {
+            "question": "Select the game park marked S",
+            "type": "multipleChoice",
+            "answer": ["Tsavo National park"],
+            "options": [
+              "Tsavo National park",
+              "Serengeti National park",
+              "Nairobi national park"
+            ],
+            "id": "ple_sst_sect_B48_1_sub_1",
+            "user_answer": "Nairobi national park"
+          },
+          {
+            "question": "Select the game park marked V",
+            "type": "multipleChoice",
+            "answer": ["Serengeti National park"],
+            "options": [
+              "Tsavo National park",
+              "Serengeti National park",
+              "Nairobi national park"
+            ],
+            "id": "ple_sst_sect_B48_1_sub_2",
+            "user_answer": "Because its peak crosses the snowline"
+          },
+          {
+            "question": "Why is the peak of mountain marked X snowcapped throughout the year?",
+            "type": "multipleChoice",
+            "answer": ["Because its peak crosses the snowline"],
+            "options": [
+              "Because its peak crosses the snowline",
+              "Because its on the border of two countries"
+            ],
+            "id": "ple_sst_sect_B48_1_sub_3",
+            "user_answer": null
+          }
+        ],
+        "id": "ple_sst_sect_B48_1",
+        "user_answer": null
+      }
+    ],
+    "$id": "document_43"
+  },
+  {
+    "category": 49,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "What is a national election?",
+        "type": "multipleChoice",
+        "answer": [
+          "A national election is a democratic way of choosing leaders in a country"
+        ],
+        "options": [
+          "A national election is the process of counting people in an area",
+          "A national election is a democratic way of choosing leaders in a country"
+        ],
+        "sub_questions": [
+          {
+            "question": "Select any two bad practices done by people during the national elections.",
+            "type": "check_box",
+            "answer": ["Voter bribery", "Ballot stuffing"],
+            "options": [
+              "Corruption",
+              "Voter bribery",
+              "Ballot stuffing",
+              "Theft"
+            ],
+            "id": "ple_sst_sect_B49_6_sub_1",
+            "user_answer": ["It helps to know the people in an area"]
+          },
+          {
+            "question": "In which one way is a voters' register important during elections?",
+            "type": "multipleChoice",
+            "answer": ["It eases the identification of voters"],
+            "options": [
+              "It eases the identification of voters",
+              "It helps to know the people in an area"
+            ],
+            "id": "ple_sst_sect_B49_6_sub_2",
+            "user_answer": null
+          }
+        ],
+        "id": "ple_sst_sect_B49_6",
+        "user_answer": "A national election is a democratic way of choosing leaders in a country"
+      }
+    ],
+    "$id": "document_44"
+  },
+  {
+    "category": 50,
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select the source of solar energy",
+        "type": "multipleChoice",
+        "answer": ["Sun"],
+        "options": ["Moon", "Star", "Dam", "Sun"],
+        "sub_questions": [
+          {
+            "question": "Select the source of wind energy",
+            "type": "multipleChoice",
+            "answer": ["The wind"],
+            "options": ["The wind", "The Sun"],
+            "id": "ple_sst_sect_B50_3_sub_1",
+            "user_answer": "It provides education services"
+          },
+          {
+            "question": "Select any two benefits of extending hydro-electric power (HEP) to all parts of Uganda.",
+            "type": "check_box",
+            "answer": [
+              "It promotes industrialization",
+              "It controls rural-urban migration"
+            ],
+            "options": [
+              "It promotes industrialization",
+              "It provides education services",
+              "It controls rural-urban migration",
+              "It helps to fight corruption"
+            ],
+            "id": "ple_sst_sect_B50_3_sub_2",
+            "user_answer": null
+          }
+        ],
+        "id": "ple_sst_sect_B50_3",
+        "user_answer": "Star"
+      }
+    ],
+    "$id": "document_45"
+  },
+  {
+    "category": 51,
+    "instructions": "For each of the questions 51 to 55, click on 'EITHER' to answer the Christian question and 'OR' to answer the Islamic question.",
+    "questions": [
+      {
+        "question": "State any one traditional way of reconciliation",
+        "type": "multipleChoice",
+        "answer": ["Through arbitration"],
+        "options": ["Through going to church", "Through arbitration"],
+        "sub_questions": [
+          {
+            "question": "Select any two ways in which christians carry out reconciliation",
+            "type": "check_box",
+            "answer": ["Through arbitration", "Through exchanging gifts"],
+            "options": [
+              "Through going to church",
+              "Through arbitration",
+              "Through exchanging gifts",
+              "Through fighting corruption"
+            ],
+            "id": "ple_sst_sectB_either_12_sub_0",
+            "user_answer": ["Through arbitration", "Through exchanging gifts"]
+          },
+          {
+            "question": "Why is reconciliation very important in our communities?",
+            "type": "multipleChoice",
+            "answer": ["It promotes peace"],
+            "options": ["It helps to fight corruption", "It promotes peace"],
+            "id": "ple_sst_sectB_either_12_sub_1",
+            "user_answer": "It promotes peace"
+          }
+        ],
+        "id": "ple_sst_sectB_either_12",
+        "user_answer": "Through arbitration"
+      },
+      {
+        "question": "Select any two reasons why children should obey their parents",
+        "type": "check_box",
+        "answer": [
+          "To get blessings from Allah",
+          "To give respect to their parents"
+        ],
+        "options": [
+          "To get blessings from Allah",
+          "To be able to go to mosque",
+          "To give respect to their parents",
+          "To get basic needs"
+        ],
+        "sub_questions": [
+          {
+            "question": "Select any two ways in which muslims can avoid evil practices in their communities",
+            "type": "check_box",
+            "answer": ["To get blessings from Allah", "By reading the Quran"],
+            "options": [
+              "By going to school",
+              "To get blessings from Allah",
+              "By reading the Quran",
+              "By fighting corruption"
+            ],
+            "id": "ple_sst_sectB_or_6_sub_0",
+            "user_answer": ["By going to school", "To get blessings from Allah"]
+          }
+        ],
+        "id": "ple_sst_sectB_or_6",
+        "user_answer": [
+          "To give respect to their parents",
+          "To get basic needs"
+        ]
+      },
+      {
+        "question": "When do most Muslims celebrate the birth of Prophet Muhammad P.B.U.H?",
+        "type": "multipleChoice",
+        "answer": ["On 12th Rabil Awwal"],
+        "options": [
+          "On 12th Rabil Awwal",
+          "On 1st Shawwal",
+          "On 27th Rajab",
+          "On 10th Muharram"
+        ],
+        "sub_questions": [
+          {
+            "question": "Select any three things to show that Prophet Mohammad P.B.U.H was a true messenger of Allah",
+            "type": "check_box",
+            "answer": [
+              "He split the moon into two parts",
+              "He performed the Miraj",
+              "He performed the Hegira"
+            ],
+            "options": [
+              "He performed miracles",
+              "He split the moon into two parts",
+              "The Holy Spirit came down on earth during his baptism",
+              "He performed the Miraj",
+              "He performed the Hegira",
+              "Angel Gabriel brought the good news about His birth to Mary"
+            ],
+            "id": "ple_sst_sectB_or_22_sub_0",
+            "user_answer": [
+              "He split the moon into two parts",
+              "The Holy Spirit came down on earth during his baptism",
+              "He performed the Miraj"
+            ]
+          }
+        ],
+        "id": "ple_sst_sectB_or_22",
+        "user_answer": "On 27th Rajab"
+      },
+      {
+        "question": "Select the meaning of baptism as a sacrament in christianity",
+        "type": "multipleChoice",
+        "answer": [
+          "It is the sacrament that introduces a person into Christianity"
+        ],
+        "options": [
+          "It is the sacrament in which Christians receive the body and blood of Jesus Christ",
+          "It is the sacrament that introduces a person into Christianity"
+        ],
+        "sub_questions": [
+          {
+            "question": "Select the meaning of holy communion as a sacrament in christianity",
+            "type": "multipleChoice",
+            "answer": [
+              "It is the sacrament in which Christians receive the body and blood of Jesus Christ"
+            ],
+            "options": [
+              "It is the sacrament in which Christians receive the body and blood of Jesus Christ",
+              "It is the sacrament that introduces a person into Christianity"
+            ],
+            "id": "ple_sst_sectB_either_9_sub_0",
+            "user_answer": "It is the sacrament that introduces a person into Christianity"
+          },
+          {
+            "question": "Select two conditions that can enable a christian to take part in Holy communion",
+            "type": "check_box",
+            "answer": [
+              "One must have repented before receiving it",
+              "One must be baptized"
+            ],
+            "options": [
+              "One must be a christian who goes to church",
+              "One must have repented before receiving it",
+              "One must be baptized",
+              "One has to be a honest christian"
+            ],
+            "id": "ple_sst_sectB_either_9_sub_1",
+            "user_answer": [
+              "One must be a christian who goes to church",
+              "One must be baptized"
+            ]
+          }
+        ],
+        "id": "ple_sst_sectB_either_9",
+        "user_answer": "It is the sacrament in which Christians receive the body and blood of Jesus Christ"
+      },
+      {
+        "question": "Select the Kabaka of Buganda who welcomed the first Arab traders to Uganda",
+        "type": "multipleChoice",
+        "answer": ["Kabaka Ssuuna II"],
+        "options": [
+          "Kabaka Ssuuna II",
+          "Kabaka Muteesa I",
+          "Kabaka Mwanga II",
+          "Kabaka Chwa II",
+          "Kabaka Ronald Muwenda Mutebi II"
+        ],
+        "sub_questions": [
+          {
+            "question": "Select any two contributions of Islam to the development of Uganda",
+            "type": "check_box",
+            "answer": [
+              "It has led to the building of hospitals",
+              "It has led to the building of schools"
+            ],
+            "options": [
+              "It has led to the fighting of corruption",
+              "It has led to the building of hospitals",
+              "It has led to the building of roads",
+              "It has led to the building of schools"
+            ],
+            "id": "ple_sst_sectB_or_24_sub_0",
+            "user_answer": [
+              "It has led to the building of hospitals",
+              "It has led to the building of roads"
+            ]
+          },
+          {
+            "question": "Select any one similarity between the first Arab traders and Christian missionaries in Uganda",
+            "type": "multipleChoice",
+            "answer": ["Both spread a foreign religion"],
+            "options": ["Both built roads", "Both spread a foreign religion"],
+            "id": "ple_sst_sectB_or_24_sub_1",
+            "user_answer": "Both built roads"
+          }
+        ],
+        "id": "ple_sst_sectB_or_24",
+        "user_answer": "Kabaka Chwa II"
+      }
+    ],
+    "$id": "document_46"
+  }
+]

@@ -1,0 +1,92 @@
+.exam-page-bg {
+  /* background: url('/path-to-your-background-image.jpg') no-repeat center center fixed; */
+  /* background: linear-gradient(45deg, #adadad, #acd0f000); */
+  background-color: #f5f5f5;
+  /* Light grey background */
+  background-size: cover;
+  min-height: 100vh;
+  /* padding: 60px 0; */
+}
+
+.subject-header {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.subject-row {
+  margin-bottom: 1rem;
+}
+
+.subject-card {
+  cursor: pointer;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.subject-card:hover {
+  transform: translateY(-5px);
+}
+
+.subject-card .card-body {
+  padding: 1.5rem;
+}
+
+.subject-card .card-title {
+  margin-top: 1rem;
+  font-weight: 600;
+}
+
+/* Modal styles */
+.modal-content {
+  border-radius: 0.5rem;
+}
+
+.modal-header {
+  background-color: #004085;
+  /* Bootstrap primary color */
+  color: white;
+}
+
+.modal-footer .btn {
+  margin-right: 10px;
+}
+
+.exam-page {
+  padding: 20px;
+}
+
+.tab-navigation {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  justify-content: center;
+}
+
+.tab {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+  font-weight: bold;
+}
+
+.tab.active {
+  border-color: #007bff;
+  color: #007bff;
+  background-color: #f0f8ff;
+}
+
+.tab:not(.active) {
+  color: #777;
+  opacity: 0.6;
+}
+
+.tab-content {
+  padding: 1rem;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: opacity 0.3s ease;
+}

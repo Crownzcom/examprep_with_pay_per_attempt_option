@@ -1,0 +1,1201 @@
+[
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one domestic animal kept for milk.",
+        "type": "multipleChoice",
+        "answer": ["Cow", "Goat", "Camel", "Sheep"],
+        "options": ["Cow", "Goat", "Camel", "Dog", "Cat", "Sheep"],
+        "id": "ple_sst_sect_A1_9"
+      }
+    ],
+    "category": 1,
+    "$id": "document_0"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Which landform covers most areas of Uganda?",
+        "type": "mutipleChoice",
+        "answer": ["Plateaus"],
+        "options": ["Mountains", "Hills", "Deserts", "Plateaus", "Waterfalls"],
+        "id": "ple_sst_sect_A2_10"
+      }
+    ],
+    "category": 2,
+    "$id": "document_1"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "What does the symbol below represent on a map?",
+        "type": "multipleChoice",
+        "image": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2016_3.png",
+        "answer": ["Contours"],
+        "options": ["Cliff", "Lake", "Well", "Contours", "Swamp", "Soil"],
+        "id": "ple_sst_sect_A3_9"
+      }
+    ],
+    "category": 3,
+    "$id": "document_2"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "What safety wear is used by passengers crossing water bodies to protect their lives?",
+        "type": "multipleChoice",
+        "answer": ["Life jackets"],
+        "options": [
+          "Helmets",
+          "Coveralls",
+          "Safety Shoes",
+          "Life jackets",
+          "Coats",
+          "Water glasses"
+        ],
+        "id": "ple_sst_sect_A4_11"
+      }
+    ],
+    "category": 4,
+    "$id": "document_3"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select one example of a crater lake in Uganda.",
+        "type": "multipleChoice",
+        "answer": [
+          "Lake katwe",
+          "Lake Nyamumuka",
+          "Lake Munyanyanga",
+          "Lake Muhavura",
+          "Lake Kataboganda",
+          "Lake Nakasura"
+        ],
+        "options": [
+          "Lake katwe",
+          "Lake Kyoga",
+          "Lake Nyamumuka",
+          "Lake Munyanyanga",
+          "Lake Muhavura",
+          "Lake Victoria",
+          "Lake Albert",
+          "Lake Kataboganda",
+          "Lake Nakasura"
+        ],
+        "id": "ple_sst_sect_A5_16"
+      }
+    ],
+    "category": 5,
+    "$id": "document_4"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Why should children greet visitors at home?",
+        "type": "multipleChoice",
+        "answer": ["To promote morals"],
+        "options": ["To reduce illiteracy rates", "To promote morals"],
+        "id": "ple_sst_sect_A6_5"
+      }
+    ],
+    "category": 6,
+    "$id": "document_5"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select one reason why there are many different types of natural vegetation in Africa.",
+        "type": "multipleChoice",
+        "answer": ["The different distribution of rainfall in different areas"],
+        "options": [
+          "The different distribution of rainfall in different areas",
+          "The different colonial rulers who ruled in Africa"
+        ],
+        "id": "ple_sst_sect_A7_16"
+      }
+    ],
+    "category": 7,
+    "$id": "document_6"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select the Muganda agent used by the British to extend their rule to Eastern Uganda.",
+        "type": "multipleChoice",
+        "answer": ["Semei Kakungulu", "Semei Lwakirenzi"],
+        "options": [
+          "Semei Kakungulu",
+          "Sir Apollo Kagwa",
+          "Sekabaka Mwanga",
+          "Semei Lwakirenzi"
+        ],
+        "id": "ple_sst_sect_A8_12"
+      }
+    ],
+    "category": 8,
+    "$id": "document_7"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select the water passage that connects the mediterranean sea to the red sea.",
+        "type": "multipleChoice",
+        "answer": ["Suez canal"],
+        "options": [
+          "The Kazinga channel",
+          "Suez canal",
+          "The mozambique channel",
+          "The English channel"
+        ],
+        "mark": 1,
+        "id": "ple_sst_sect_A9_8"
+      }
+    ],
+    "category": 9,
+    "$id": "document_8"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "In which way did the people of East Africa express their need for independence during the colonial rule?",
+        "type": "multipleChoice",
+        "answer": [
+          "They formed political parties and rebellions agitating for independence"
+        ],
+        "options": [
+          "They chased away the colonialists",
+          "They formed political parties and rebellions agitating for independence"
+        ],
+        "id": "ple_sst_sect_A10_20"
+      }
+    ],
+    "category": 10,
+    "$id": "document_9"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select the latitude marked 0<sup>o</sup> in the diagram of the globe below",
+        "image": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2020_11.png",
+        "type": "multipleChoice",
+        "answer": ["Equator"],
+        "options": ["Tropic of Cancer", "Tropic of Capricorn", "Equator"],
+        "id": "ple_sst_sect_A11_5"
+      }
+    ],
+    "category": 11,
+    "$id": "document_10"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one contribution of United Nations Educational Scientific and Cultural Organisation (UNESCO) to the development of Uganda",
+        "type": "multipleChoice",
+        "answer": ["It promotes education in Uganda"],
+        "options": [
+          "It promotes education in Uganda",
+          "It promotes security in Uganda"
+        ],
+        "id": "ple_sst_sect_A12_3"
+      }
+    ],
+    "category": 12,
+    "$id": "document_11"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "What does the symbol below represent on the Uganda National Coat of Arms?",
+        "type": "multipleChoice",
+        "image": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2019_13.png",
+        "answer": ["The drum represents the cultural heritage of Uganda"],
+        "options": [
+          "It represents the willingness of the Ugandan people to defend their country",
+          "The drum represents the cultural heritage of Uganda",
+          "It represents a new era, hope and optimism"
+        ],
+        "id": "ple_sst_sect_A13_6"
+      }
+    ],
+    "category": 13,
+    "$id": "document_12"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select one reason why plants in desert areas have deep roots",
+        "type": "multipleChoice",
+        "answer": ["To absorb nutrients from the ground"],
+        "options": [
+          "To absorb nutrients from the ground",
+          "To be firm in the ground"
+        ],
+        "id": "ple_sst_sect_A14_3"
+      }
+    ],
+    "category": 14,
+    "$id": "document_13"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Apart from cultivating crops and grazing animals, Select any other way the people of Uganda use land to earn a living",
+        "type": "multipleChoice",
+        "answer": [
+          "Mining",
+          "Building",
+          "Poultry keeping",
+          "Bee keeping",
+          "Farming"
+        ],
+        "options": [
+          "Fishing",
+          "Mining",
+          "land degradation",
+          "Building",
+          "Poultry keeping",
+          "Bee keeping",
+          "land speculation",
+          "Farming",
+          "Forestry"
+        ],
+        "id": "ple_sst_sect_A15_13"
+      }
+    ],
+    "category": 15,
+    "$id": "document_14"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Apart from the Judiciary and the Executive. select one other arm of government.",
+        "type": "multipleChoice",
+        "answer": [
+          "The legislature",
+          "The Parliament",
+          "The National Assembly"
+        ],
+        "options": [
+          "The Parliament",
+          "The President",
+          "The Supreme Court",
+          "The Cabinet",
+          "The National Assembly",
+          "The legislature",
+          "The Military"
+        ],
+        "id": "ple_sst_sect_A16_15"
+      }
+    ],
+    "category": 16,
+    "$id": "document_15"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": " Select any one advantage of growing crops by irrigation.",
+        "type": "multipleChoice",
+        "answer": [
+          "It helps to produce crops throughout the year without depending on rain season"
+        ],
+        "options": [
+          "It helps to produce crops throughout the year without depending on rain season",
+          "It helps to reduce soil erosion",
+          "It helps to reduce soil depletion"
+        ],
+        "id": "ple_sst_sect_A17_18"
+      }
+    ],
+    "category": 17,
+    "$id": "document_16"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one way in which industrial growth can be a problem to the Environment.",
+        "type": "multipleChoice",
+        "answer": [
+          "It leads to destruction of environment",
+          "It leads to pollution of the environment"
+        ],
+        "options": [
+          "It leads to destruction of environment",
+          "Source of job creation",
+          "Promotes resource utilisation",
+          "It leads to pollution of the environment"
+        ],
+        "id": "ple_sst_sect_A18_12"
+      }
+    ],
+    "category": 18,
+    "$id": "document_17"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "State any one way in which freedom of association is practised in Uganda today.",
+        "type": "multipleChoice",
+        "answer": ["People are allowed to attend church crusades and meetings"],
+        "options": [
+          "People are allowed to vote in uganda",
+          "People are allowed to attend church crusades and meetings"
+        ],
+        "id": "ple_sst_sect_A19_16"
+      }
+    ],
+    "category": 19,
+    "$id": "document_18"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one of the tools used in schools to change from one daily activity to another.",
+        "type": "multipleChoice",
+        "answer": [
+          "Timetables",
+          "Alarm clocks",
+          "School bell",
+          "Drum",
+          "Gong",
+          "Siren"
+        ],
+        "options": [
+          "Microphones",
+          "Timetables",
+          "Piano",
+          "Alarm clocks",
+          "School bell",
+          "Drum",
+          "Speakers",
+          "Gong",
+          "Siren"
+        ],
+        "id": "ple_sst_sect_A20_10"
+      }
+    ],
+    "category": 20,
+    "$id": "document_19"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "What is the advantage of a country having its own seaport?",
+        "type": "multipleChoice",
+        "answer": ["It reduces taxes on goods"],
+        "options": ["It reduces taxes on goods", "It increases taxes on goods"],
+        "id": "ple_sst_sect_A21_16"
+      }
+    ],
+    "category": 21,
+    "$id": "document_20"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one way in which droughts affect cattle keepers in East Africa.",
+        "type": "multipleChoice",
+        "answer": ["It leads to scarcity of pasture and water"],
+        "options": [
+          "It leads to cattle rustling",
+          "It leads to scarcity of pasture and water"
+        ],
+        "id": "ple_sst_sect_A22_9"
+      }
+    ],
+    "category": 22,
+    "$id": "document_21"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Why are traffic police officers encouraged to wear jackets with reflectors while on duty?",
+        "type": "multipleChoice",
+        "answer": ["To ease identification"],
+        "options": [
+          "Because its part of their uniform",
+          "To ease identification"
+        ],
+        "id": "ple_sst_sect_A23_3"
+      }
+    ],
+    "category": 23,
+    "$id": "document_22"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "How does afforestation influence the climatic condition of a place?",
+        "type": "multipleChoice",
+        "answer": [
+          "It helps to increase the rainfall amounts received in a place"
+        ],
+        "options": [
+          "It helps to reduce floods in an area",
+          "It helps to increase the rainfall amounts received in a place"
+        ],
+        "id": "ple_sst_sect_A24_7"
+      }
+    ],
+    "category": 24,
+    "$id": "document_23"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one way in which oil drilling can benefit the people living in the Albertine region",
+        "type": "multipleChoice",
+        "answer": ["It can lead to the development of infrastructure"],
+        "options": [
+          "It will help them to get better health services",
+          "It can lead to the development of infrastructure"
+        ],
+        "id": "ple_sst_sect_A25_3"
+      }
+    ],
+    "category": 25,
+    "$id": "document_24"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "How is Uganda different from Liberia in terms of colonization?",
+        "type": "multipleChoice",
+        "answer": [
+          "Uganda was colonized by the Europeans while Liberia was not"
+        ],
+        "options": [
+          "Uganda was colonized by the British while Liberia was colonized by the Germans",
+          "Uganda was colonized by the Europeans while Liberia was not"
+        ],
+        "id": "ple_sst_sect_A26_5"
+      }
+    ],
+    "category": 26,
+    "$id": "document_25"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "State any one social challenge that has been caused by thick forests in the Democratic Republic of Congo",
+        "type": "multipleChoice",
+        "answer": ["Attacks from rebels"],
+        "options": ["Poor transport networks", "Attacks from rebels"],
+        "id": "ple_sst_sect_A27_4"
+      }
+    ],
+    "category": 27,
+    "$id": "document_26"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one through which parents can ensure equal treatment of boys and girls at home",
+        "type": "multipleChoice",
+        "answer": ["By giving them similar tasks to perform"],
+        "options": [
+          "By teaching the cultural values",
+          "By giving them similar tasks to perform"
+        ],
+        "id": "ple_sst_sect_A28_2"
+      }
+    ],
+    "category": 28,
+    "$id": "document_27"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one practice that shows that Uganda was at one time a British protectorate",
+        "type": "multipleChoice",
+        "answer": ["It uses english as an official language"],
+        "options": [
+          "It carries out elections",
+          "It uses english as an official language"
+        ],
+        "id": "ple_sst_sect_A29_2"
+      }
+    ],
+    "category": 29,
+    "$id": "document_28"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one reason why a country should maintain peace and security",
+        "type": "multipleChoice",
+        "answer": ["To promote trade"],
+        "options": ["To fight corruption", "To promote trade"],
+        "id": "ple_sst_sect_A30_4"
+      }
+    ],
+    "category": 30,
+    "$id": "document_29"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "What time is it at town X which is located 45<sup>o</sup> East if it's 6:00 am at Greenwich?",
+        "type": "multipleChoice",
+        "answer": ["It is 9:00 am at place X"],
+        "explanation": "1hour = 15<sup>o</sup>\n 45<sup>0</sup> = (45/15) = 3 hours\n 6:00 + 3:00 = 9:00am",
+        "options": ["It is 9:00 pm at place X", "It is 9:00 am at place X"],
+        "id": "ple_sst_sect_A31_5"
+      }
+    ],
+    "category": 31,
+    "$id": "document_30"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "How is Lake Victoria similar to Lake Kyoga in terms of formation?",
+        "type": "multipleChoice",
+        "answer": ["They were both formed by down warping"],
+        "options": [
+          "They were both formed by volcanicity",
+          "They were both formed by down warping"
+        ],
+        "id": "ple_sst_sect_A32_6"
+      }
+    ],
+    "category": 32,
+    "$id": "document_31"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "What will the time be in a country at 60<sup>o</sup>E if it is 1:00 p.m at the Greenwich Mean Time?",
+        "type": "multipleChoice",
+        "answer": ["It will be 5:00 p.m at a place 60<sup>o</sup>E"],
+        "explanation": "1 hr = 15<sup>o</sup>\n 60<sup>o</sup> = (60/15) = 4hrs\n 1:00 p.m + + 4:00hrs = 5:00 p.m",
+        "options": [
+          "It will be 5:00 p.m at a place 60<sup>o</sup>E",
+          "It will be 6:00 p.m at a place 60<sup>o</sup>E"
+        ],
+        "id": "ple_sst_sect_A33_5"
+      }
+    ],
+    "category": 33,
+    "$id": "document_32"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Why is mob justice a bad practice in communities",
+        "type": "multipleChoice",
+        "answer": ["It leads to violation of human rights"],
+        "options": [
+          "It lets wrongdoers escape justice",
+          "It leads to violation of human rights"
+        ],
+        "id": "ple_sst_sect_A34_3"
+      }
+    ],
+    "category": 34,
+    "$id": "document_33"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any one reason why the number of children dying of diseases has gone down in East Africa",
+        "type": "multipleChoice",
+        "answer": [
+          "Due to the improvement in the provision of health services"
+        ],
+        "options": [
+          "Due to the decrease in birth rates in East Africa",
+          "Due to the improvement in the provision of health services"
+        ],
+        "id": "ple_sst_sect_A35_2"
+      }
+    ],
+    "category": 35,
+    "$id": "document_34"
+  },
+  {
+    "instructions": "For each of the questions 36 to 40, click on 'EITHER' to answer the Christian question and 'OR' to answer the Islamic question.",
+    "questions": [
+      {
+        "either": {
+          "question": "What term is used by christians to mean the act of asking for forgiveness after wrongdoing?",
+          "type": "multipleChoice",
+          "answer": ["Repentance"],
+          "options": [
+            "Repentance",
+            "Atonement",
+            "Salvation",
+            "Redemption",
+            "Forgiveness"
+          ],
+          "id": "ple_sst_sectA_either_14"
+        },
+        "or": {
+          "question": "What term is used by muslims to mean the act of asking for forgiveness after wrongdoing?",
+          "type": "multipleChoice",
+          "answer": ["Repentance"],
+          "options": ["Repentance", "Salat", "Zakat", "Sawm", "Hajj"],
+          "id": "ple_sst_sectA_or_14"
+        },
+        "id": "36_0"
+      }
+    ],
+    "category": 36,
+    "$id": "document_35"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Study the table below showing the climate of place A and answer questions that follow.",
+        "image": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2009_41.png",
+        "sub_questions": [
+          {
+            "question": "In which month of the year does place A receive the highest amount of rainfall.",
+            "type": "multipleChoice",
+            "answer": ["June"],
+            "options": ["June", "January", "Febuary", "March"],
+            "id": "ple_sst_sect_B41_15_sub_1"
+          },
+          {
+            "question": "Select any one reason why a crop can be grown at any time of the year at place A",
+            "type": "multipleChoice",
+            "answer": ["Because place A receives rainfall throughout the year"],
+            "options": [
+              "Because place A receives rainfall throughout the year",
+              "Because place A has fertile soil"
+            ],
+            "id": "ple_sst_sect_B41_15_sub_2"
+          },
+          {
+            "question": "Select one cash crop that can grow well under this type of climate",
+            "type": "multipleChoice",
+            "answer": ["Coffee", "Wheat"],
+            "options": ["Cotton", "Coffee", "Tea", "Wheat", "Cocoa"],
+            "id": "ple_sst_sect_B41_15_sub_3"
+          },
+          {
+            "question": "Calculate the temperature range of place A",
+            "type": "multipleChoice",
+            "answer": ["4<sup>o</sup>C"],
+            "explanation": [
+              "Range = Highest temperature - lowest temperature\n= 25<sup>o</sup>C- 21<sup>o</sup>C\n= 4<sup>o</sup>C"
+            ],
+            "options": ["4<sup>o</sup>C", "5<sup>o</sup>C", "75<sup>o</sup>C"],
+            "id": "ple_sst_sect_B41_15_sub_4"
+          }
+        ],
+        "id": "ple_sst_sect_B41_15"
+      }
+    ],
+    "category": 41,
+    "$id": "document_36"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "The diagram below shows a school budget. Use it to answer the questions that follow",
+        "image": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2013_42.png",
+        "sub_questions": [
+          {
+            "question": "Select the type of Budget shown in the diagram above",
+            "type": "multipleChoice",
+            "answer": ["Deficit budget"],
+            "options": [
+              "Deficit budget",
+              "Balanced budget",
+              "Fiscal budget",
+              "Surplus budget"
+            ],
+            "id": "ple_sst_sect_B42_11_sub_1"
+          },
+          {
+            "question": "Select any two problems a school may face when  it has a budget shown above.",
+            "type": "check_box",
+            "answer": ["It leads to debts", "It leads to shortages in school"],
+            "options": [
+              "It leads to debts",
+              "It leads to shortages in school",
+              "It leads to late closure of the school term",
+              "It leads to unnecessary spending"
+            ],
+            "id": "ple_sst_sect_B42_11_sub_2"
+          },
+          {
+            "question": "State any one reason a school should have a budget.",
+            "type": "multipleChoice",
+            "answer": ["To identify priorities for proper planning"],
+            "options": [
+              "To identify priorities for proper planning",
+              "To avoid budget constraints"
+            ],
+            "id": "ple_sst_sect_B42_11_sub_3"
+          }
+        ],
+        "id": "ple_sst_sect_B42_11"
+      }
+    ],
+    "category": 42,
+    "$id": "document_37"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any two reasons why good roads are important in the development of an industry.",
+        "type": "multipleChoice",
+        "answer": [
+          "They ease  the transportation of finished goods to the market",
+          "They lower the cost of production of goods"
+        ],
+        "options": [
+          "They ease  the transportation of finished goods to the market",
+          "They help to collect more taxes",
+          "They promote good work attitudes",
+          "They lower the cost of production of goods"
+        ],
+        "sub_questions": [
+          {
+            "question": "Select the importance of labour in the development of an industry",
+            "type": "multipleChoice",
+            "answer": ["It helps to operate machines"],
+            "options": [
+              "It helps to operate machines",
+              "It helps to purchase land and machinery"
+            ],
+            "id": "ple_sst_sect_B43_15_sub_1"
+          },
+          {
+            "question": "Select the importance of capital in the development of an industry",
+            "type": "multipleChoice",
+            "answer": ["It helps to purchase land and machinery"],
+            "options": [
+              "It helps to operate machines",
+              "It helps to purchase land and machinery"
+            ],
+            "id": "ple_sst_sect_B43_15_sub_2"
+          }
+        ],
+        "id": "ple_sst_sect_B43_15"
+      }
+    ],
+    "category": 43,
+    "$id": "document_38"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any two uses of mobile phone",
+        "type": "check_box",
+        "answer": ["They store information", "They are used for communication"],
+        "options": [
+          "They are used for security",
+          "They store information",
+          "They are used for communication"
+        ],
+        "sub_questions": [
+          {
+            "question": "Select any two disadvantages of mobile phones",
+            "type": "check_box",
+            "answer": [
+              "They can cause accidents while crossing roads",
+              "Children can waste a lot of time in using phones"
+            ],
+            "options": [
+              "They limit socialization",
+              "They can cause accidents while crossing roads",
+              "Children can waste a lot of time in using phones",
+              "They help in transportation"
+            ],
+            "id": "ple_sst_sect_B44_11_sub_1"
+          }
+        ],
+        "id": "ple_sst_sect_B44_11"
+      }
+    ],
+    "category": 44,
+    "$id": "document_39"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any two reasons why informal education is good in the community.",
+        "type": "check_box",
+        "answer": [
+          "It promotes unity",
+          "It helps to know the origin of their tribes"
+        ],
+        "options": [
+          "It helps to stop corruption",
+          "It promotes unity",
+          "It improves the communication networks",
+          "It helps to know the origin of their tribes"
+        ],
+        "sub_questions": [
+          {
+            "question": "In which two ways do parents help their children to learn about their culture?",
+            "type": "check_box",
+            "answer": [
+              "Through story telling",
+              "By allowing  children to attend cultural ceremonies"
+            ],
+            "options": [
+              "Through taking them to visit game parks",
+              "Through story telling",
+              "By allowing  children to attend cultural ceremonies",
+              "By providing them with the basic needs"
+            ],
+            "id": "ple_sst_sect_B45_13_sub_1"
+          }
+        ],
+        "id": "ple_sst_sect_B45_13"
+      }
+    ],
+    "category": 45,
+    "$id": "document_40"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Apart from farming, Select any one other example of a primary industry in Uganda",
+        "type": "multipleChoice",
+        "answer": ["Mining", "Lumbering", "Fishing"],
+        "options": [
+          "Mining",
+          "Manufacturing",
+          "Lumbering",
+          "Tourism",
+          "Fishing",
+          "Quarrying"
+        ],
+        "sub_questions": [
+          {
+            "question": "State any one way in which cash crop growing increases industrial development in East Africa",
+            "type": "multipleChoice",
+            "answer": [
+              "It is a source of raw materials to agro-based industries"
+            ],
+            "options": [
+              "It is the source of raw materials for export",
+              "It is a source of raw materials to agro-based industries"
+            ],
+            "id": "ple_sst_sect_B46_3_sub_1"
+          },
+          {
+            "question": "Select any two reasons for the slow industrial development in some African countries.",
+            "type": "check_box",
+            "answer": [
+              "Shortage of capital of funds",
+              "Shortage of market for processed goods"
+            ],
+            "options": [
+              "Lack of enough land to set up industries",
+              "Shortage of capital of funds",
+              "Shortage of unskilled labour",
+              "Shortage of market for processed goods"
+            ],
+            "id": "ple_sst_sect_B46_3_sub_2"
+          }
+        ],
+        "id": "ple_sst_sect_B46_3"
+      }
+    ],
+    "category": 46,
+    "$id": "document_41"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select two elements of climate that influence human settlement",
+        "type": "check_box",
+        "answer": ["Rainfall", "Temperature"],
+        "options": [
+          "Rainfall",
+          "Temperature",
+          "Tropical climate",
+          "Mediterranean climate"
+        ],
+        "sub_questions": [
+          {
+            "question": "State one effect of the revolution of the earth",
+            "type": "multipleChoice",
+            "answer": ["It causes changes in seasons"],
+            "options": [
+              "It causes ocean currents",
+              "It causes changes in seasons"
+            ],
+            "id": "ple_sst_sect_B47_5_sub_1"
+          },
+          {
+            "question": "What term is used when the sun is overhead the equator?",
+            "type": "multipleChoice",
+            "answer": ["Equinox"],
+            "options": [
+              "Solstice",
+              "Zenith",
+              "High Sun",
+              "Equinox",
+              "Big Heat",
+              "Apogee"
+            ],
+            "id": "ple_sst_sect_B47_5_sub_2"
+          }
+        ],
+        "id": "ple_sst_sect_B47_5"
+      }
+    ],
+    "category": 47,
+    "$id": "document_42"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select any two reasons why you would visit any one tourist attraction site in Uganda",
+        "type": "check_box",
+        "answer": [
+          "For study purposes or education and research",
+          "To see wildlife"
+        ],
+        "options": [
+          "To earn foreign exchange",
+          "For study purposes or education and research",
+          "To see wildlife",
+          "To pay taxes"
+        ],
+        "sub_questions": [
+          {
+            "question": "Select any two contributions of tourism industry to the development of East Africa.",
+            "type": "check_box",
+            "answer": [
+              "It provides employment to people",
+              "It is a source of government revenue"
+            ],
+            "options": [
+              "It promotes safe farming methods",
+              "It provides employment to people",
+              "It provides health services to people",
+              "It is a source of government revenue"
+            ],
+            "id": "ple_sst_sect_B48_2_sub_1"
+          }
+        ],
+        "id": "ple_sst_sect_B48_2"
+      }
+    ],
+    "category": 48,
+    "$id": "document_43"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "Select the place in modern Tanzania through which the early explorers entered East Africa.",
+        "type": "multipleChoice",
+        "answer": ["Bagamoyo"],
+        "options": ["Bagamoyo", "Zanzibar", "Dar es Salaam", "Mombasa"],
+        "sub_questions": [
+          {
+            "question": "In which two ways was the Sultan of Zanzibar helpful to early explorers to East Africa.",
+            "type": "check_box",
+            "answer": [
+              "He gave them permission to explore",
+              "He gave them guides"
+            ],
+            "options": [
+              "He gave them explorers slaves",
+              "He provided security to the explorers",
+              "He gave them permission to explore",
+              "He gave them guides"
+            ],
+            "id": "ple_sst_sect_B49_3_sub_1"
+          },
+          {
+            "question": "How did some wrong information about Africa make the work of the explorers difficult?",
+            "type": "multipleChoice",
+            "answer": ["It delayed their movement into the interior"],
+            "options": [
+              "It led to sickness among the explorers",
+              "It delayed their movement into the interior"
+            ],
+            "id": "ple_sst_sect_B49_3_sub_2"
+          }
+        ],
+        "id": "ple_sst_sect_B49_3"
+      }
+    ],
+    "category": 49,
+    "$id": "document_44"
+  },
+  {
+    "instructions": null,
+    "questions": [
+      {
+        "question": "The diagram below shows a formation of a physical feature. Use it to answer the questions that follow",
+        "image": "https://v1q1.c10.e2-4.dev/exam-prep/primaryseven/images/sst/2020_50.png",
+        "sub_questions": [
+          {
+            "question": "Select the process shown with arrows on the diagram.",
+            "type": "multipleChoice",
+            "answer": ["Faulting"],
+            "options": ["Faulting", "Folding", "Volcanic activity", "Erosion"],
+            "id": "ple_sst_sect_B50_4_sub_1"
+          },
+          {
+            "question": "Which physical feature is formed in the area marked B",
+            "type": "multipleChoice",
+            "answer": ["Rift valley"],
+            "options": ["Hill", "Rift valley", "Mountain", "Plateau", "Plain"],
+            "id": "ple_sst_sect_B50_4_sub_2"
+          },
+          {
+            "question": "What term is used to mean the slopes marked D on the diagram above?",
+            "type": "multipleChoice",
+            "answer": ["Escarpment"],
+            "options": ["Rift valley", "Escarpment", "Plateau", "Hill"],
+            "id": "ple_sst_sect_B50_4_sub_3"
+          },
+          {
+            "question": "State any one reason why area marked C is cooler than the area marked B on the diagram",
+            "type": "multipleChoice",
+            "answer": ["Area C is at a higher altitude than area B"],
+            "options": [
+              "Area C is at a lower altitude than area B",
+              "Area C is at a higher altitude than area B"
+            ],
+            "id": "ple_sst_sect_B50_4_sub_4"
+          }
+        ],
+        "id": "ple_sst_sect_B50_4"
+      }
+    ],
+    "category": 50,
+    "$id": "document_45"
+  },
+  {
+    "instructions": "For each of the questions 51 to 55, click on 'EITHER' to answer the Christian question and 'OR' to answer the Islamic question.",
+    "questions": [
+      {
+        "either": {
+          "question": "What type of religion existed in Africa before the coming of Christianity?",
+          "type": "multipleChoice",
+          "answer": ["African Traditional Religion"],
+          "options": [
+            "Islam",
+            "African Traditional Religion",
+            "Hinduism",
+            "Buddhism"
+          ],
+          "sub_questions": [
+            {
+              "question": "Select any two ways in which believers of the religion in (a) above showed that there was life after death",
+              "type": "check_box",
+              "answer": [
+                "They named their children after their dead relatives",
+                "They sacrificed animals to appease the spirits of their dead relatives"
+              ],
+              "options": [
+                "They named their children after their dead relatives",
+                "They prayed for the dead",
+                "They sacrificed animals to appease the spirits of their dead relatives"
+              ],
+              "id": "ple_sst_sectB_either_1_sub_1"
+            },
+            {
+              "question": "State any one reason why some Christians fear death",
+              "type": "check_box",
+              "answer": ["They don't want to lose their wealth"],
+              "options": [
+                "They are not sure of life after death",
+                "They don't want to lose their wealth"
+              ],
+              "id": "ple_sst_sectB_either_1_sub_2"
+            }
+          ],
+          "id": "ple_sst_sectB_either_1"
+        },
+        "or": {
+          "question": "What type of religion existed in Africa before the coming of Islam?",
+          "type": "multipleChoice",
+          "answer": ["African Traditional Religion"],
+          "options": [
+            "African Traditional Religion",
+            "Christianity",
+            "Hinduism",
+            "Buddhism"
+          ],
+          "sub_questions": [
+            {
+              "question": "Select any two ways in which believers of the religion in (a) above showed that there was life after death",
+              "type": "check_box",
+              "answer": [
+                "They named their children after their dead relatives",
+                "They sacrificed animals to appease the spirits of their dead relatives"
+              ],
+              "options": [
+                "They named their children after their dead relatives",
+                "They prayed for the dead",
+                "They sacrificed animals to appease the spirits of their dead relatives"
+              ],
+              "id": "ple_sst_sectB_or_1_sub_1"
+            },
+            {
+              "question": "State any one reason why some Christians fear death",
+              "type": "check_box",
+              "answer": ["They don't want to lose their wealth"],
+              "options": [
+                "They are not sure of life after death",
+                "They don't want to lose their wealth"
+              ],
+              "id": "ple_sst_sectB_or_1_sub_2"
+            }
+          ],
+          "id": "ple_sst_sectB_or_1"
+        },
+        "id": "51_0"
+      }
+    ],
+    "category": 51,
+    "$id": "document_46"
+  }
+]

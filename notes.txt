@@ -1,0 +1,18 @@
+What to pass to the questions/quiz iframe:
+- student id
+- subject id or name
+
+iFrameComponent:
+-Props to pass
+*exam time
+*exam name/id
+*exam 
+
+--------------------
+*Provide practice exams
+--------------------
+
+
+---code---
+
+----

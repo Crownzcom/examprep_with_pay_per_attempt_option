@@ -1,0 +1,230 @@
+
+
+.App {
+  /* background-color: hsl(236, 72%, 79%), hsl(237, 63%, 64%); */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.graph-buttons {
+  width: auto;
+  margin: 2px;
+  padding: 4px;
+  border-radius: 5px;
+  background: #fff;
+}
+
+.main-content {
+  flex: 1;
+  margin-top: 0.009rem;
+}
+
+.uce-images {
+  width: 30%;
+  margin: 10px;
+}
+
+.uce-single-image {
+  width: 60%;
+  align-self: center;
+  margin: 10px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+.uce-images-history {
+  width: 70%;
+  margin: 10px;
+}
+
+.uce-images-biology {
+  width: 70%;
+  margin: 10px;
+}
+
+.sign-background {
+  background-image: url(/public//img/wordpress-background.PNG);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  min-height: 100vh;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+.instruction {
+  background-color: #f5f5f5;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-left: 4px solid #4285f4;
+}
+.story {
+  background-color: white;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.poem {
+  background-color: white;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+u {
+  text-decoration: underline;
+}
+.questions-container {
+  margin-top: 30px;
+}
+#questions-list li {
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+#questions-list li.main {
+  font-weight: bold;
+}
+#questions-list li.subs {
+  margin-left: 20px;
+  list-style-type: lower-roman;
+  font-weight: normal;
+  margin-top: 10px;
+}
+.question-number:before {
+  content: attr(data-letter) '. ';
+  font-weight: bold;
+}
+input[type='radio'] {
+  margin-right: 10px;
+}
+label {
+  display: block;
+  margin: 5px 0;
+  padding: 5px;
+}
+input[type='text'] {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+  border: 1px solid #ddd;
+}
+.tick,
+.cross {
+  display: inline-block;
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+.tick {
+  color: green;
+}
+.cross {
+  color: red;
+}
+.correct-answer {
+  color: green;
+  display: block;
+  margin-top: 5px;
+  font-style: italic;
+}
+.user-answer {
+  color: #666;
+  margin: 5px 0;
+  font-style: italic;
+}
+
+/* .table{
+  margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #141212;
+    font-size: 16px;
+    max-width: calc(100% - 40px);
+    box-sizing: border-box; 
+} */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 16px;
+}
+
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+
+.modal {
+  --bs-modal-width: 800px !important;
+}
+
+.modal-dialog {
+  max-width: var(--bs-modal-width) !important;
+}
+
+@media (max-width: 768px) {
+  .main-content {
+    padding-top: 100px;
+  }
+  .main-content .uce-images {
+    width: 92%;
+  }
+}
+
+/* 
+* {
+  outline: 1px solid red;
+} */
+
+/* Style for the radio buttons */
+.custom-radio-signup .form-check-input {
+  /* Remove default appearance */
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+
+  /* Custom styling */
+  width: 20px;
+  height: 20px;
+  border: 2px solid black;
+  border-radius: 50%;
+  background-color: white;
+  cursor: pointer;
+  position: relative;
+  margin: 0;
+}
+
+/* Create the inner circle when checked */
+.custom-radio-signup .form-check-input:checked::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: black;
+}
+
+/* Override Bootstrap's blue focus outline */
+.custom-radio-signup .form-check-input:focus {
+  box-shadow: none;
+  border-color: black;
+  outline: none;
+}
+
+input::placeholder {
+  font-size: 0.875rem;
+  color: rgb(100, 116, 139);
+}

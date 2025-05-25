@@ -1,0 +1,9 @@
+.ui-textinput {
+    text-align: center;
+    font-size: 20px;
+    border: none;
+    border-bottom: 1px solid #000;
+    outline: none;
+    padding: 2px 0;
+    background-color: transparent;
+}

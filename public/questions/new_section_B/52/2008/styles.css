@@ -1,0 +1,124 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 980px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.instruction{
+    font-weight: bold;
+    font-size: 18px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.content {
+    max-width: 100%; 
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #000;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+.questions-container {
+    max-width: 100%;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    box-sizing: border-box; 
+}
+
+#questions-list li {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #1d0101;
+    border-radius: 5px;
+}
+
+.question-number {
+    font-weight: bold;
+    margin-right: 5px;
+    font-size: 16px;
+}
+
+.question-item {
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    font-size: 16px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"] {
+    padding: 4px;
+    border: 1px solid #000;
+    font-size: 16px;
+    width: 90%; 
+    margin: 0;
+    background-color: white;
+    border-radius: 0.5px;
+    height: 15px;
+    display: block;
+    max-width: 400px;
+    margin-left: 0; 
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+.tick,
+.cross {
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.tick {
+    color: green;
+}
+
+.cross {
+    color: red;
+}
+
+.invitation {
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #141212;
+    font-size: 16px;
+    max-width: calc(100% - 40px);
+    box-sizing: border-box; 
+    text-align: center;
+}
+
+p {
+    margin: 0
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.message {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.speaker {
+    font-weight: bold;
+}
+
+.message-text {
+    padding-left: 100px;
+}
