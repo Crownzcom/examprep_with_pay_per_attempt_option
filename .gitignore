@@ -28,3 +28,5 @@ notes.md
 /src/components/tests
 /urgent.txt
 .env
+/src/config.js
+/src/components/subscription/payments.env
